@@ -1,5 +1,4 @@
-# I've joined the #100DaysOfX Challenge!
-## #100daysofCode and #100daysofX (where X is focus/health)
+# I've joined the #100DaysOfCode Challenge!
 
 (Note: This is my edited template from kallaway/100-days-of-code.)
 
@@ -9,7 +8,6 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 
 * [Rules](rules.md)
 * [My Coding Log](log-code-R1.md)
-* [My Focus Log](log-focus-R1.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
@@ -32,16 +30,6 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 - **encourage at least two other people in the challenge on Twitter every day! Pay it forward!**
 - commit to the [current log](log-code-R1.md) (R1 stands for Round 1) daily.
 - submit a Pull Request to add to the repo if I find a great, helpful resource that would benefit others.
-
-### Similarly, for Focus I will:
-- commit to better focus in multiple ways:
-    - eating more greens, all-round healthier
-    - drink plenty of water
-    - exercise (cardio and strength) and/or meditate daily
-    - get outdoors/ fresh air
-    - socialize at least once a week
-- log my progress [here](log-focus-R1.md) (and possibly tweet about it via #100daysOfHealth)
-
 
 ## Want to join or change your habits?
 
