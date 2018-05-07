@@ -1,14 +1,19 @@
-# #100DaysOfCode Log - Round 1
-**Shamicker [(@hahaha_it_is_i)](https://twitter.com/hahaha_it_is_i)**
+<h1 align="center">#100DaysOfCode</h1>
 
-The log of my #100DaysOfCode challenge.
-Start date: May 4th, 2018.
+<p align="center">
+    The log of my #100DaysOfCode challenge.
+    <br>Start date: May 4th, 2018.
+    <br><br><a href="https://twitter.com/hahaha_it_is_i">@hahaha_it_is_i</a>
+</p>
 
+---
+<h2 align="center">
+    Daily Log for Round 1
+</h2>
 
-## Log
-
+<!-- ********************************************************** -->
 <h3 align="center">
-    R1D1 (May 5th, actually)
+    R1D1 - May 5
 </h3>
 <p align="center">
     <img src='images/R1D1.png' width='500'>
@@ -22,5 +27,16 @@ Took time out from struggling with FEND memory game (the cards are flipping both
 
 [See my tweet.](https://twitter.com/hahaha_it_is_i/status/992960099722387456)
 
+---
+<h3 align="center">
+    R1D2 - May 6
+</h3>
+<p align="center">
+    <img src='images/r1d2.png' width='500'>
+</p>
 
-<!-- ### R1D2 -->
+Tried helping someone else today. It was a string manipulation dependent on user input (a hangman game) that he was having trouble with. I ended up pretty much writing it out in JS pseudo code for him. In my mind, it was 99% literally spelled out and he just had to replace my words with his variables (but I didn't say so). He wasn't getting it, and seemed like he just wanted the answer, which I am against providing.
+
+Ironically, this is pretty much my exact struggle with the memory game. I have now written it out in paragraph pseudo code, but still can't grasp how I need to implement it! I know I can get it, it's just a matter of getting in some quality focus.
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/993311401623027712)
