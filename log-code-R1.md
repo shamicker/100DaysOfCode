@@ -40,3 +40,16 @@ Tried helping someone else today. It was a string manipulation dependent on user
 Ironically, this is pretty much my exact struggle with the memory game. I have now written it out in paragraph pseudo code, but still can't grasp how I need to implement it! I know I can get it, it's just a matter of getting in some quality focus.
 
 [See my tweet.](https://twitter.com/hahaha_it_is_i/status/993311401623027712)
+
+---
+<h3 align="center">
+    R1 D3 - May 7
+</h3>
+<p align="center">
+    <img src='images/r1d3.png' width='500'>
+</p>
+
+Disappointed in my lack of focus today.
+But I downloaded Visual Studio Code to see what all the buzz was about. Whoa! I'm definitely going to make the switch! Once you get through a lot of configuration, EVERYTHING is right there. Overwhelmed by it, but ready to dig in. It'll save me so much time in the long run, I think. Especially things with it's tooltips on function definitions, github buttons, stack overflow... I could go on and on and I haven't even started using it yet!
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/993677120458158081)
