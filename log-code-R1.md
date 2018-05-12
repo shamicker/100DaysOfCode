@@ -16,7 +16,7 @@
     R1D1 - May 5
 </h3>
 <p align="center">
-    <img src='images/R1D1.png' width='500'>
+    <img src='https://github.com/shamicker/100-days-of-code/blob/master/images/R1D1.PNG' width='500'>
 </p>
 
 Took time out from struggling with FEND memory game (the cards are flipping both left and right, one for each side). Did project 1 from JavaScript30 challenge - keyboard 'drumkit'.
