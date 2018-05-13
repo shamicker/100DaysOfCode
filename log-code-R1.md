@@ -77,3 +77,20 @@ Also, coding went slower than usual because I'm trying out VSCode. Another late 
 
 ---
 
+<h3 align="center">
+    R1 D5/6 - May 11/12
+
+</h3>
+
+<p align="center">
+    <img src='images/r1-d6.png' width='500'>
+</p>
+
+Missed a couple days due to illness, but on the mend. Yesterday & today I did some Descriptive Statistics.
+
+Today I did a little #JavaScript30 "array cardio" to get back into shape.
+Those array methods (sort, map, filter, reduce) are tough but will make me stronger!
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/995477889339592704)
+
+---
