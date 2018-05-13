@@ -83,7 +83,7 @@ Also, coding went slower than usual because I'm trying out VSCode. Another late 
 </h3>
 
 <p align="center">
-    <img src='images/r1-d6.PNG' width='500'>
+    <img src='https://github.com/shamicker/100-days-of-code/blob/master/images/r1-d6.PNG' width='500'>
 </p>
 
 Missed a couple days due to illness, but on the mend. Yesterday & today I did some Descriptive Statistics.
