@@ -16,7 +16,7 @@
     R1D1 - May 5
 </h3>
 <p align="center">
-    <img src='images/R1D1.png' width='500'>
+    <img src='https://github.com/shamicker/100-days-of-code/blob/master/images/R1D1.PNG' width='500'>
 </p>
 
 Took time out from struggling with FEND memory game (the cards are flipping both left and right, one for each side). Did project 1 from JavaScript30 challenge - keyboard 'drumkit'.
@@ -32,7 +32,7 @@ Took time out from struggling with FEND memory game (the cards are flipping both
     R1D2 - May 6
 </h3>
 <p align="center">
-    <img src='images/r1d2.png' width='500'>
+    <img src='https://github.com/shamicker/100-days-of-code/blob/master/images/r1d2.PNG' width='500'>
 </p>
 
 Tried helping someone else today. It was a string manipulation dependent on user input (a hangman game) that he was having trouble with. I ended up pretty much writing it out in JS pseudo code for him. In my mind, it was 99% literally spelled out and he just had to replace my words with his variables (but I didn't say so). He wasn't getting it, and seemed like he just wanted the answer, which I am against providing.
@@ -46,7 +46,7 @@ Ironically, this is pretty much my exact struggle with the memory game. I have n
     R1 D3 - May 7
 </h3>
 <p align="center">
-    <img src='images/r1d3.png' width='500'>
+    <img src='https://github.com/shamicker/100-days-of-code/blob/master/images/r1d3.PNG' width='500'>
 </p>
 
 Disappointed in my lack of focus today.
@@ -62,7 +62,7 @@ But I downloaded Visual Studio Code to see what all the buzz was about. Whoa! I'
 </h3>
 
 <p align="center">
-    <img src='images/r1-d4.png' width='500'>
+    <img src='https://github.com/shamicker/100-days-of-code/blob/master/images/r1-d4.PNG' width='500'>
 </p>
 
 Today was the first day of the Bertelsmann Data Science Challenge Scholarship. And thousands of us were really eager to get started, so Facebook was overwhelmingly busy asking if emails should be received yet, or if the forum or slack or the classrooms were open yet. And then when they WERE opened, oh geez!
