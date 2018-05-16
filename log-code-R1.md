@@ -94,3 +94,18 @@ Those array methods (sort, map, filter, reduce) are tough but will make me stron
 [See my tweet.](https://twitter.com/hahaha_it_is_i/status/995477889339592704)
 
 ---
+
+<h3 align="center">
+    R1 D7/8 - May 14/15
+
+</h3>
+
+<p align="center">
+    <img src='https://github.com/shamicker/100-days-of-code/blob/master/images/r1-d8.PNG' width='500'>
+</p>
+
+Still a little under the weather so missed a day. Yesterday and today I did more Descriptive Statistics rather than *actual* coding. But I'm counting it since it'll eventually become coding. Can't wait for that part!
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/996573920709967872)
+
+---
