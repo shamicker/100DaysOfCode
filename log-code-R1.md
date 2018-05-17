@@ -109,3 +109,22 @@ Still a little under the weather so missed a day. Yesterday and today I did more
 [See my tweet.](https://twitter.com/hahaha_it_is_i/status/996573920709967872)
 
 ---
+
+<h3 align="center">
+    R1 D9 - May 16
+
+</h3>
+
+<p align="center">
+    <img src='https://github.com/shamicker/100-days-of-code/blob/master/images/r1-d9.PNG' width='500'>
+</p>
+
+More Descriptive Stats today. I've gotten to the new-to-me stuff! I learned about:
+- bar charts vs histograms
+- intervals/ bins/ buckets
+- frequencies and distributions
+
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/996942078579036162)
+
+---
