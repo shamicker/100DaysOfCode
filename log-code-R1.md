@@ -58,7 +58,6 @@ But I downloaded Visual Studio Code to see what all the buzz was about. Whoa! I'
 
 <h3 align="center">
     R1 D4 - May 8
-
 </h3>
 
 <p align="center">
@@ -79,7 +78,6 @@ Also, coding went slower than usual because I'm trying out VSCode. Another late 
 
 <h3 align="center">
     R1 D5/6 - May 11/12
-
 </h3>
 
 <p align="center">
@@ -97,7 +95,6 @@ Those array methods (sort, map, filter, reduce) are tough but will make me stron
 
 <h3 align="center">
     R1 D7/8 - May 14/15
-
 </h3>
 
 <p align="center">
@@ -112,7 +109,6 @@ Still a little under the weather so missed a day. Yesterday and today I did more
 
 <h3 align="center">
     R1 D9 - May 16
-
 </h3>
 
 <p align="center">
@@ -126,5 +122,22 @@ More Descriptive Stats today. I've gotten to the new-to-me stuff! I learned abou
 
 
 [See my tweet.](https://twitter.com/hahaha_it_is_i/status/996942078579036162)
+
+---
+
+<h3 align="center">
+    R1 D10/11 - May 17/18
+</h3>
+
+<p align="center">
+    <img src='https://github.com/shamicker/100-days-of-code/blob/master/images/r1-d11.PNG' width='500'>
+</p>
+
+I'd forgotten just how much I like math. I'm loving Descriptive Stats! Of course, it's still early on.
+
+Also figured out how to write math symbols in my markdown sheet. Exciting!
+
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/997667430204956672)
 
 ---
