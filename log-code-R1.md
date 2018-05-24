@@ -141,3 +141,16 @@ Also figured out how to write math symbols in my markdown sheet. Exciting!
 [See my tweet.](https://twitter.com/hahaha_it_is_i/status/997667430204956672)
 
 ---
+<h3 align="center">
+    R1 D12-16 - May 19-23
+</h3>
+
+<p align="center">
+    <img src='https://github.com/shamicker/100-days-of-code/blob/master/images/r1-d16.PNG' width='500'>
+</p>
+
+Nothing terribly interesting has been happening. Just plugging away in Descriptive Statistics. Loving it, but it's still mostly a review of my math days. Granted, they seem like a million years ago...
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/999451015836553217)
+
+---
