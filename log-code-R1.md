@@ -154,3 +154,19 @@ Nothing terribly interesting has been happening. Just plugging away in Descripti
 [See my tweet.](https://twitter.com/hahaha_it_is_i/status/999451015836553217)
 
 ---
+<h3 align="center">
+    R1 D17/18 - May 27/28
+</h3>
+
+<p align="center">
+    <img src='https://github.com/shamicker/100-days-of-code/blob/master/images/r1-d18.PNG' width='500'>
+</p>
+
+Alright. I dropped the ball. I missed a few days, but I'm back!
+And with a plan (literally a schedule, which I never do, but I need to really buckle down).
+
+Leapt back to the memory game I'd been avoiding. Solved my CSS transition issue and figured out how to implement my pseudo code! Yeah! Maybe I just needed a break?
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1001254840465489923)
+
+---
