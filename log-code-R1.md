@@ -170,3 +170,22 @@ Leapt back to the memory game I'd been avoiding. Solved my CSS transition issue 
 [See my tweet.](https://twitter.com/hahaha_it_is_i/status/1001254840465489923)
 
 ---
+<h3 align="center">
+    R1 D19-21 - May 29-31
+</h3>
+
+<p align="center">
+    <img src='https://github.com/shamicker/100-days-of-code/blob/master/images/r1-d21.PNG' width='500'>
+</p>
+
+Been plugging away at the FEND Memory Game. I feel so close to finishing it! Although, really, there's still more to implement and lots to fix, yet I'm tweaking the details. They're details that I'd probably end up tweaking anyways (like the flip speeds).
+
+- tweaking card-flip speeds,
+- implement the winner's popup,
+- reworking code for replay, based on winner's popup input
+
+And wow, I suck at design, hahaha! :)
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1002359235483721735)
+
+---
