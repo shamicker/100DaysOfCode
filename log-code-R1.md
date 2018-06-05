@@ -189,3 +189,20 @@ And wow, I suck at design, hahaha! :)
 [See my tweet.](https://twitter.com/hahaha_it_is_i/status/1002359235483721735)
 
 ---
+<h3 align="center">
+    R1 D22 - June 4
+</h3>
+
+<p align="center">
+    <img src='https://github.com/shamicker/100-days-of-code/blob/master/images/r1-d22.PNG' width='500'>
+</p>
+
+Took an extended weekend off. But again, I'm back, with another plan. An additional plan. With a visual map of my goals! It hurts to look at all that I haven't done & all I still have left, but it is also motivation. I can and WILL do it!!
+
+So today was lesson 15 of the data science challenge - learned about standardizing a normal distribution.
+
+As well, I fiddled with my memory game a bit. Box shadows to make it a bit less completely 2D flat.
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1003853875894513665)
+
+---
