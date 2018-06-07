@@ -206,3 +206,18 @@ As well, I fiddled with my memory game a bit. Box shadows to make it a bit less 
 [See my tweet.](https://twitter.com/hahaha_it_is_i/status/1003853875894513665)
 
 ---
+<h3 align="center">
+    R1 D23 - June 6
+</h3>
+
+<p align="center">
+    <img src='https://github.com/shamicker/100-days-of-code/blob/master/images/r1-d23.PNG' width='500'>
+</p>
+
+Missed a day again! Back though.
+
+Finished 2 "chapters" of practice questions in the data science challenge. I'm understanding the stuff, and looking forward to more!
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1004531456155189249)
+
+---
