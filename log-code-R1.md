@@ -221,3 +221,18 @@ Finished 2 "chapters" of practice questions in the data science challenge. I'm u
 [See my tweet.](https://twitter.com/hahaha_it_is_i/status/1004531456155189249)
 
 ---
+<h3 align="center">
+    R1 D24 - June 8
+</h3>
+
+<p align="center">
+    <img src='https://github.com/shamicker/100-days-of-code/blob/master/images/r1-d24-BilKeane.jpg' width='500'>
+</p>
+
+Another lesson down in stats!
+
+Also did a lot of work for something that was obviously simple in the end. I guess sometimes I need to take the scenic route. :)
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1005286873755979778)
+
+---
