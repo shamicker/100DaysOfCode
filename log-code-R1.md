@@ -236,3 +236,16 @@ Also did a lot of work for something that was obviously simple in the end. I gue
 [See my tweet.](https://twitter.com/hahaha_it_is_i/status/1005286873755979778)
 
 ---
+<h3 align="center">
+    R1 D25 - June 10
+</h3>
+
+<p align="center">
+    <img src='https://github.com/shamicker/100-days-of-code/blob/master/images/r1-d25.PNG' width='500'>
+</p>
+
+Only did lesson 19 and a bit of 20 in stats. I'll have to redo some of 20 since I'm not understanding it fully. No problem, but it's tomorrow's task.
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1005984603285450752)
+
+---
