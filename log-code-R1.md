@@ -249,3 +249,18 @@ Only did lesson 19 and a bit of 20 in stats. I'll have to redo some of 20 since 
 [See my tweet.](https://twitter.com/hahaha_it_is_i/status/1005984603285450752)
 
 ---
+<h3 align="center">
+    R1 D26/27 - June 11/12
+</h3>
+
+<p align="center">
+    <img src='https://github.com/shamicker/100-days-of-code/blob/master/images/r1-d27.PNG' width='500'>
+</p>
+
+Yesterday, did some minor but important progress on memory game. Felt awesome!
+
+Today, progressing in stats, but am pretty confused! There was an abrupt line between material that was review and completely new, and I crossed it. Having trouble grasping the concept of the Central Limit Theorem and the Standard Error. But I've got more material to cover before I'll review it.
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1006703532827987968)
+
+---
