@@ -264,3 +264,16 @@ Today, progressing in stats, but am pretty confused! There was an abrupt line be
 [See my tweet.](https://twitter.com/hahaha_it_is_i/status/1006703532827987968)
 
 ---
+<h3 align="center">
+    R1 D28 - June 13
+</h3>
+
+<p align="center">
+    <img src='https://github.com/shamicker/100-days-of-code/blob/master/images/r1-d28.PNG' width='500'>
+</p>
+
+Implemented move counter and a running timer to the memory game, but I think something's not quite right with it. I'll finish those up tomorrow.
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1007073175790907392)
+
+---
