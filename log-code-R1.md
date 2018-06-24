@@ -307,3 +307,16 @@ Then I mentored a couple of long but fun days at #TeachersLearningCode, and got 
 [See my tweet.](https://twitter.com/hahaha_it_is_i/status/1010356587586818054)
 
 ---
+<h3 align="center">
+    R1 D32 - June 23
+</h3>
+
+<p align="center">
+    <img src='https://github.com/shamicker/100-days-of-code/blob/master/images/r1-d32.PNG' width='500'>
+</p>
+
+Completed the rest of Free Code Camp's Applied Visual Design, Applied Accessibility, Responsive Web Design Principles, and CSS Flexbox. Most of it was review (which I needed!!). Looking forward to learning about CSS Grid next! :)
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1010693784038977536)
+
+---
