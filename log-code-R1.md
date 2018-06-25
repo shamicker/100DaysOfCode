@@ -320,3 +320,20 @@ Completed the rest of Free Code Camp's Applied Visual Design, Applied Accessibil
 [See my tweet.](https://twitter.com/hahaha_it_is_i/status/1010693784038977536)
 
 ---
+<h3 align="center">
+    R1 D33 - June 24
+</h3>
+
+<p align="center">
+    <img src='https://github.com/shamicker/100-days-of-code/blob/master/images/r1-d33.PNG' width='500'>
+</p>
+
+Finished all the FreeCodeCamp's Responsive Web Design tutorials. Just need to do the 5 projects!
+
+Also figured out (read: installed) table of contents for markdown.
+
+And finally, started reviewing the Sampling Distributions chapter in Descriptive Stats that I had so much trouble with. So far so good...
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1011057885969833985)
+
+---
