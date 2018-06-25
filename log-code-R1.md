@@ -282,7 +282,7 @@ Implemented move counter and a running timer to the memory game, but I think som
 </h3>
 
 <p align="center">
-    <img src='https://video.fymq1-1.fna.fbcdn.net/v/t42.1790-2/35837327_426586211142743_5219971563566137344_n.mp4?_nc_cat=0&vs=fd4c7181faa22c7f&_nc_vs=HBksFQAYJEdJLVZJZ0pYekpSWF9vTUJBQUFBQUFCN0VIRklidjRHQUFBRhUAABUAGCRHTHVhSVFJZnZ1RFBEMUVIQUFBQUFBRGtfTlZVYnY0R0FBQUYVAgBLABUAABgJNTYxODU2MzkwFq7ZssCmvookFbjOrPMOGQUYAkMzGAt2dHNfcHJldmlldxwXQD07ZFocrAgYGGRhc2hfdjRfaHE0X2ZyYWdfMl92aWRlbwAYGHZpZGVvcy52dHMuY2FsbGJhY2sucHJvZBkcFQAVvJkCAAA%3D&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&oh=66edf67dae5830f540700f952d446bf2&oe=5B2DEFC3&_nc_rid=ba3009db6c3b872' width='500'>
+    <img src='https://github.com/shamicker/100-days-of-code/blob/master/images/RoboCup2018.mp4' width='500'>
 </p>
 
 Yikes, I haven't worked on my own projects for a week!
