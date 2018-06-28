@@ -337,3 +337,32 @@ And finally, started reviewing the Sampling Distributions chapter in Descriptive
 [See my tweet.](https://twitter.com/hahaha_it_is_i/status/1011057885969833985)
 
 ---
+<h3 align="center">
+    R1 D34 - June 26
+</h3>
+
+<!-- <p align="center">
+    <img src='https://github.com/shamicker/100-days-of-code/blob/master/images/r1-d33.PNG' width='500'>
+</p> -->
+
+Took a day off for St Jean-Baptiste Monday holiday. Biked all afternoon with Kim. Sunburn! But fun and tiring. :)
+
+Today, read some Data articles, poked around on Slack and the Forum for Data Challenge.
+Tried to organize myself with the groups I've joined! I can't keep them straight, and am getting lost with all the info. Must do better.
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1011811980737433600)
+
+---
+<h3 align="center">
+    R1 D35 - June 27
+</h3>
+
+<p align="center">
+    <img src='https://github.com/shamicker/100-days-of-code/blob/master/images/r1-d35.PNG' width='500'>
+</p>
+
+Finally starting to understand Sampling Distribution, after some chatting, reviewing the lessons, moving on, and re-reviewing!
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1012158273045323776)
+
+---
