@@ -366,3 +366,20 @@ Finally starting to understand Sampling Distribution, after some chatting, revie
 [See my tweet.](https://twitter.com/hahaha_it_is_i/status/1012158273045323776)
 
 ---
+<h3 align="center">
+    R1 D36 - June 28
+</h3>
+
+<p align="center">
+    <img src='https://github.com/shamicker/100-days-of-code/blob/master/images/r1-d36.PNG' width='500'>
+</p>
+
+Yay! Finished the Stats part of the Data Challenge. Understanding the 'how' but not the 'why' (which isn't in the course's scope) of sampling distributions.
+
+Started on the Python part of the Challenge.
+
+Discovered PythonAnywhere so went back and finally made my old 'fill in the blank quiz' live. It had been on the back burner for a long, long time.
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1012534043743834114)
+
+---
