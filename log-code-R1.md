@@ -383,3 +383,16 @@ Discovered PythonAnywhere so went back and finally made my old 'fill in the blan
 [See my tweet.](https://twitter.com/hahaha_it_is_i/status/1012534043743834114)
 
 ---
+<h3 align="center">
+    R1 D37 - June 29
+</h3>
+
+<!-- <p align="center">
+    <img src='https://github.com/shamicker/100-days-of-code/blob/master/images/r1-d36.PNG' width='500'>
+</p> -->
+
+Did some work on memory game, read data science articles. Nothing awful or exciting to report. :)
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1012877692662886401)
+
+---
