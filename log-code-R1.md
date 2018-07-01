@@ -396,3 +396,16 @@ Did some work on memory game, read data science articles. Nothing awful or excit
 [See my tweet.](https://twitter.com/hahaha_it_is_i/status/1012877692662886401)
 
 ---
+<h3 align="center">
+    R1 D38/39 - June 30/July 1st
+</h3>
+
+<p align="center">
+    <img src='https://github.com/shamicker/100-days-of-code/blob/master/images/r1-d39.PNG' width='500'>
+</p>
+
+Reviewing Python basics for the data challenge. Didn't know about zip() before!
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1013569645671010305))
+
+---
