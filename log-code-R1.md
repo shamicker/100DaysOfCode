@@ -406,6 +406,26 @@ Did some work on memory game, read data science articles. Nothing awful or excit
 
 Reviewing Python basics for the data challenge. Didn't know about zip() before!
 
-[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1013569645671010305))
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1013569645671010305)
+
+---
+<h3 align="center">
+    R1 D40 - July 2
+</h3>
+
+<p align="center">
+    <img src='https://github.com/shamicker/100-days-of-code/blob/master/images/r1-d40.PNG' width='500'>
+</p>
+
+More python today:
+- map
+- filter
+- lambda expressions
+- iterators
+- generators
+
+Currently stuck on a generator quiz, but I'll get it tomorrow. :)
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1013948145565388801)
 
 ---
