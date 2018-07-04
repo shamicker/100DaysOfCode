@@ -429,3 +429,21 @@ Currently stuck on a generator quiz, but I'll get it tomorrow. :)
 [See my tweet.](https://twitter.com/hahaha_it_is_i/status/1013948145565388801)
 
 ---
+<h3 align="center">
+    R1 D41 - July 3
+</h3>
+
+<p align="center">
+    <img src='https://github.com/shamicker/100-days-of-code/blob/master/images/r1-d41.PNG' width='500'>
+</p>
+
+During a break, I suddenly figured out the quiz I was stuck on. I was making it more difficult than it actually was. (Story of my life!)
+
+However, I'm still convinced I have the tools to make it more concise. Still working on that.
+
+I also read data articles, watched data & cv videos, organized my path a bit more.
+
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1014333068293877761)
+
+---
