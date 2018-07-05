@@ -447,3 +447,16 @@ I also read data articles, watched data & cv videos, organized my path a bit mor
 [See my tweet.](https://twitter.com/hahaha_it_is_i/status/1014333068293877761)
 
 ---
+<h3 align="center">
+    R1 D42 - July 4
+</h3>
+
+<p align="center">
+    <img src='https://github.com/shamicker/100-days-of-code/blob/master/images/r1-d42.PNG' width='500'>
+</p>
+
+More #python practice today. On to scripting!
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1014669457782902784)
+
+---
