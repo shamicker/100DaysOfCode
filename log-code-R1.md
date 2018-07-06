@@ -460,3 +460,16 @@ More #python practice today. On to scripting!
 [See my tweet.](https://twitter.com/hahaha_it_is_i/status/1014669457782902784)
 
 ---
+<h3 align="center">
+    R1 D43 - July 5
+</h3>
+
+<p align="center">
+    <img src='https://github.com/shamicker/100-days-of-code/blob/master/images/r1-d43.PNG' width='500'>
+</p>
+
+Not much today, mostly due to heat! Just some handling errors in #python.
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1015034766293389312)
+
+---
