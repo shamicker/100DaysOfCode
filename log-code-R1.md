@@ -473,3 +473,20 @@ Not much today, mostly due to heat! Just some handling errors in #python.
 [See my tweet.](https://twitter.com/hahaha_it_is_i/status/1015034766293389312)
 
 ---
+<h3 align="center">
+    R1 D44 - July 6
+</h3>
+
+<p align="center">
+    <img src='https://github.com/shamicker/100-days-of-code/blob/master/images/r1-d44.PNG' width='500'>
+</p>
+
+Python modules and 3rd party libraries today.
+Working too late in the evening means slower work!
+I should know better...
+but I wanted to finish this lesson!
+Mission accomplished :D
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1015436523997749248)
+
+---
