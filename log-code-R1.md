@@ -490,3 +490,17 @@ Mission accomplished :D
 [See my tweet.](https://twitter.com/hahaha_it_is_i/status/1015436523997749248)
 
 ---
+<h3 align="center">
+    R1 D45 - July 7
+</h3>
+
+<p align="center">
+    <img src='https://github.com/shamicker/100-days-of-code/blob/master/images/r1-d45.PNG' width='500'>
+</p>
+
+Procrastinated and then stayed up way too late!!!
+Anyways, I did some SQL for the Data Challenge, and refactored my old Tribute Challenge and Portfolio to pass the FCC tests. 3 more projects to go!
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1015829307002900480)
+
+---
