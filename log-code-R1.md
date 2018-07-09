@@ -504,3 +504,16 @@ Anyways, I did some SQL for the Data Challenge, and refactored my old Tribute Ch
 [See my tweet.](https://twitter.com/hahaha_it_is_i/status/1015829307002900480)
 
 ---
+<h3 align="center">
+    R1 D46 - July 8
+</h3>
+
+<p align="center">
+    <img src='https://github.com/shamicker/100-days-of-code/blob/master/images/r1-d46.PNG' width='500'>
+</p>
+
+Started in on FCC's Survey Form. This time, instead of wasting time styling and re-styling, I'm experimenting with leaving all the styling until the end!
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1016136428047224832)
+
+---
