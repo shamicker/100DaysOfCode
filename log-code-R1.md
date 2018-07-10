@@ -517,3 +517,16 @@ Started in on FCC's Survey Form. This time, instead of wasting time styling and 
 [See my tweet.](https://twitter.com/hahaha_it_is_i/status/1016136428047224832)
 
 ---
+<h3 align="center">
+    R1 D47 - July 9
+</h3>
+
+<!-- <p align="center">
+    <img src='https://github.com/shamicker/100-days-of-code/blob/master/images/r1-d46.PNG' width='500'>
+</p> -->
+
+Completed survey form's functionality. Just need to style it, hopefully in something better than my usual accidental 80s aesthetic.
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1016525387315273729)
+
+---
