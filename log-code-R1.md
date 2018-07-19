@@ -530,3 +530,31 @@ Completed survey form's functionality. Just need to style it, hopefully in somet
 [See my tweet.](https://twitter.com/hahaha_it_is_i/status/1016525387315273729)
 
 ---
+<h3 align="center">
+    R1 D48 - July 10
+</h3>
+
+<!-- <p align="center">
+    <img src='https://github.com/shamicker/100-days-of-code/blob/master/images/r1-d46.PNG' width='500'>
+</p> -->
+
+More #python for data path.
+
+<!-- [See my tweet.](https://twitter.com/hahaha_it_is_i/status/1016525387315273729) -->
+
+---
+<h3 align="center">
+    R1 D49-54 - July 13-18
+</h3>
+
+<p align="center">
+    <img src='https://github.com/shamicker/100-days-of-code/blob/master/images/r1-d54.PNG' width='500'>
+</p>
+
+- 2 days off, out of town
+- 2 days of mostly SQL (data challenge)
+- 4 days of settling into the #1mwtt #SummerOfCode as DIYer and mentor
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1019773677905371136)
+
+---
