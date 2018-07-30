@@ -558,3 +558,35 @@ More #python for data path.
 [See my tweet.](https://twitter.com/hahaha_it_is_i/status/1019773677905371136)
 
 ---
+<h3 align="center">
+    R1 D55-57 - July 19-21
+</h3>
+
+<p align="center">
+    <img src='https://github.com/shamicker/100-days-of-code/blob/master/images/r1-d57.PNG' width='500'>
+</p>
+
+1MWTT and mentored on 19th
+A day of catching up on missed webinars
+Finally finished SQL Aggregations chapter. So many tiny details I got caught up on! I'm still researching about a couple of them, but I understand the big picture.
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1019773677905371136)
+
+---
+<h3 align="center">
+    R1 D58-65 - July 22-29
+</h3>
+
+<p align="center">
+    <img src='https://github.com/shamicker/100-days-of-code/blob/master/images/r1-d57.PNG' width='500'>
+</p>
+
+I'm still at it, just haven't been posting lately.
+
+I completed the Data Science challenge course! And on time! Wow, feels great :)   #UdacityDataScholars #PoweredByBertelsmann
+
+Now I can dedicate my time to #1mwtt #SummerOfCode!
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1023763506254860289)
+
+---
