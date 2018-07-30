@@ -578,7 +578,7 @@ Finally finished SQL Aggregations chapter. So many tiny details I got caught up 
 </h3>
 
 <p align="center">
-    <img src='https://github.com/shamicker/100-days-of-code/blob/master/images/r1-d57.PNG' width='500'>
+    <img src='https://github.com/shamicker/100-days-of-code/blob/master/images/r1-d65.PNG' width='500'>
 </p>
 
 I'm still at it, just haven't been posting lately.
