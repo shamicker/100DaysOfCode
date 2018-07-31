@@ -590,3 +590,18 @@ Now I can dedicate my time to #1mwtt #SummerOfCode!
 [See my tweet.](https://twitter.com/hahaha_it_is_i/status/1023763506254860289)
 
 ---
+<h3 align="center">
+    R1 D66 - July 30
+</h3>
+
+<p align="center">
+    <img src='https://github.com/shamicker/100-days-of-code/blob/master/images/r1-d66.PNG' width='500'>
+</p>
+
+I'm behind, but still working on week2 day2 #1mwtt #SummerOfCode!
+Trying to wrap my head around recursives!
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1024113611520831494)
+
+---
+
