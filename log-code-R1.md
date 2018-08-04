@@ -605,3 +605,17 @@ Trying to wrap my head around recursives!
 
 ---
 
+<h3 align="center">
+    R1 D67 - July 31-Aug 3
+</h3>
+
+<p align="center">
+    <img src='https://github.com/shamicker/100-days-of-code/blob/master/images/r1-d67.PNG' width='500'>
+</p>
+
+I've been out of commission with a migraine for the last 3-4 days. My first ever, and I'd rather not repeat that! Aching eyes + computer glare = pain.
+So today I just made my way a bit through some DataCamp python, just so I can tick off some boxes without too much trouble. Here's hoping getting back to par for tomorrow!
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1025534446668275712)
+
+---
