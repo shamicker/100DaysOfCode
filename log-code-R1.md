@@ -624,7 +624,7 @@ So today I just made my way a bit through some DataCamp python, just so I can ti
 </h3>
 
 <p align="center">
-    <img src='https://drive.google.com/file/d/1Wgbm2vQNq0p1s-oNoddEyCxuEbrF8n5V/view?usp=sharing' width='500'>
+    <img src='https://github.com/shamicker/100-days-of-code/blob/master/images/r1-d70.PNG' width='500'>
 </p>
 
 Day 68 was split between Summer of Code and a data hackathon.
