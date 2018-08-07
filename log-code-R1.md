@@ -619,3 +619,19 @@ So today I just made my way a bit through some DataCamp python, just so I can ti
 [See my tweet.](https://twitter.com/hahaha_it_is_i/status/1025534446668275712)
 
 ---
+<h3 align="center">
+    R1 D68-70 - Aug 4-6
+</h3>
+
+<p align="center">
+    <img src='https://drive.google.com/open?id=1Wgbm2vQNq0p1s-oNoddEyCxuEbrF8n5V' width='500'>
+</p>
+
+Day 68 was split between Summer of Code and a data hackathon.
+Day 69 was data hackathon. Learned a lot and met some great women!
+Day 70 was Summer of Code - mainly installing and troubleshooting.
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1026667211719671810)
+
+---
+
