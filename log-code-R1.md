@@ -628,9 +628,26 @@ So today I just made my way a bit through some DataCamp python, just so I can ti
 </p>
 
 Day 68 was split between Summer of Code and a data hackathon.
+
 Day 69 was data hackathon. Learned a lot and met some great women!
+
 Day 70 was Summer of Code - mainly installing and troubleshooting.
 
 [See my tweet.](https://twitter.com/hahaha_it_is_i/status/1026667211719671810)
+
+---
+<h3 align="center">
+    R1 D71-73 - Aug 7-9
+</h3>
+
+<p align="center">
+    <img src='https://github.com/shamicker/100-days-of-code/blob/master/images/r1-d73.PNG' width='500'>
+</p>
+
+Day 71 - installing for week3 #SOC, and a crash
+Day 72 - trying to fix the crash
+Day 73 - reset so reinstall all my apps, finish day 71 lesson
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1027688219238912000)
 
 ---
