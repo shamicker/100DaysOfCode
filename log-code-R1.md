@@ -651,3 +651,17 @@ Day 73 - reset so reinstall all my apps, finish day 71 lesson
 [See my tweet.](https://twitter.com/hahaha_it_is_i/status/1027688219238912000)
 
 ---
+<h3 align="center">
+    R1 D74 - Aug 10
+</h3>
+
+<p align="center">
+    <img src='https://github.com/shamicker/100-days-of-code/blob/master/images/r1-d74.PNG' width='500'>
+</p>
+
+Finished up week 2 of 1mwtt Summer of Code with a guest appearance by Patricia Sun, which was calming and inspiring and loving. :)
+"What is important is our power of choice: our power to choose what we pay attention to—and to pay attention wholesomely to what works and what is good..." —Patricia Sun
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1028058144759586817)
+
+---
