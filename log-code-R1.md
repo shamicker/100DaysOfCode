@@ -665,3 +665,16 @@ Finished up week 2 of 1mwtt Summer of Code with a guest appearance by Patricia S
 [See my tweet.](https://twitter.com/hahaha_it_is_i/status/1028058144759586817)
 
 ---
+<h3 align="center">
+    R1 D75 - Aug 11
+</h3>
+
+<p align="center">
+    <img src='https://github.com/shamicker/100-days-of-code/blob/master/images/r1-d75.PNG' width='500'>
+</p>
+
+Almost got through week3 of lectures (without doing the work yet) for #1mwtt #SummerOfCode. Since I can (since I'm behind), I wanted to get a bigger picture before digging in!
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1028448507890487302)
+
+---
