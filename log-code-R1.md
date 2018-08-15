@@ -1,5 +1,5 @@
-<h1 align="center">#100DaysOfCode</h1>
 
+<h1 align="center">#100DaysOfCode</h1>
 <p align="center">
     The log of my #100DaysOfCode challenge.
     <br>Start date: May 4th, 2018.
@@ -676,5 +676,18 @@ Finished up week 2 of 1mwtt Summer of Code with a guest appearance by Patricia S
 Almost got through week3 of lectures (without doing the work yet) for #1mwtt #SummerOfCode. Since I can (since I'm behind), I wanted to get a bigger picture before digging in!
 
 [See my tweet.](https://twitter.com/hahaha_it_is_i/status/1028448507890487302)
+
+---
+<h3 align="center">
+    R1 D76-78 - Aug 12-14
+</h3>
+
+<!-- <p align="center">
+    <img src='https://github.com/shamicker/100-days-of-code/blob/master/images/r1-d78.PNG' width='500'>
+</p> -->
+
+Got through the rest of week3's lectures, and started in. Got Chapter 1 read and exercises done, Chapter 2 read and exercises started. I need to move faster (spend less time writing notes!).
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1029541800418177024)
 
 ---
