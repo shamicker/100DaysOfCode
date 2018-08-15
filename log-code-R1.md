@@ -691,3 +691,17 @@ Got through the rest of week3's lectures, and started in. Got Chapter 1 read and
 [See my tweet.](https://twitter.com/hahaha_it_is_i/status/1029541800418177024)
 
 ---
+<h3 align="center">
+    R1 D79 - Aug 15
+</h3>
+
+<p align="center">
+    <img src='https://github.com/shamicker/100-days-of-code/blob/master/images/r1-d79.PNG' width='500'>
+</p>
+
+- some more NLTK for #1mwtt #SummerOfCode
+- completed 2 mini-courses in #DataCamp #python
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1029876700430172166)
+
+---
