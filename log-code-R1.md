@@ -705,3 +705,16 @@ Got through the rest of week3's lectures, and started in. Got Chapter 1 read and
 [See my tweet.](https://twitter.com/hahaha_it_is_i/status/1029876700430172166)
 
 ---
+<h3 align="center">
+    R1 D80 - Aug 16
+</h3>
+
+<p align="center">
+    <img src='https://github.com/shamicker/100-days-of-code/blob/master/images/r1-d80.PNG' width='500'>
+</p>
+
+Had trouble concentrating today, so ended up catching up on some webinars I'd been putting off. Really interesting stuff, and now I'm pretty stoked to get coding tomorrow!
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1030269261472780289)
+
+---
