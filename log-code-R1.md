@@ -718,3 +718,16 @@ Had trouble concentrating today, so ended up catching up on some webinars I'd be
 [See my tweet.](https://twitter.com/hahaha_it_is_i/status/1030269261472780289)
 
 ---
+<h3 align="center">
+    R1 D81 - Aug 17
+</h3>
+
+<p align="center">
+    <img src='https://github.com/shamicker/100-days-of-code/blob/master/images/r1-d81.PNG' width='500'>
+</p>
+
+Focus of python and pandas dataframes today, via DataCamp. Finished the Python Programming Track but with a whole lot of prompting. Looking forward to practicing it though!
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1030614682573398016)
+
+---
