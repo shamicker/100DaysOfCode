@@ -731,3 +731,18 @@ Focus of python and pandas dataframes today, via DataCamp. Finished the Python P
 [See my tweet.](https://twitter.com/hahaha_it_is_i/status/1030614682573398016)
 
 ---
+<h3 align="center">
+    R1 D82 - Aug 22
+</h3>
+
+<p align="center">
+    <img src='https://github.com/shamicker/100-days-of-code/blob/master/images/r1-d82.PNG' width='500'>
+</p>
+
+The last 4 days were pretty scattered. Did very little learning, but did a tiny bit of #python practice, did some updating of job search docs, but mostly hung out with my cat a lot before putting her down yesterday. Much of that day was then written off.
+
+Back today, completed another @DataCamp course. 
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1032455583369256960)
+
+---
