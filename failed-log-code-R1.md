@@ -17,7 +17,7 @@
     R1D1 - May 5
 </h3>
 <p align="center">
-    <img src='https://github.com/shamicker/100-days-of-code/blob/master/imagesR1.0/R1D1.PNG' width='500'>
+    <img src='https://github.com/shamicker/100DaysOfCode/blob/master/imagesR1.0/R1D1.PNG' width='500'>
 </p>
 
 Took time out from struggling with FEND memory game (the cards are flipping both left and right, one for each side). Did project 1 from JavaScript30 challenge - keyboard 'drumkit'.
@@ -33,7 +33,7 @@ Took time out from struggling with FEND memory game (the cards are flipping both
     R1D2 - May 6
 </h3>
 <p align="center">
-    <img src='https://github.com/shamicker/100-days-of-code/blob/master/imagesR1.0/r1d2.PNG' width='500'>
+    <img src='https://github.com/shamicker/100DaysOfCode/blob/master/imagesR1.0/r1d2.PNG' width='500'>
 </p>
 
 Tried helping someone else today. It was a string manipulation dependent on user input (a hangman game) that he was having trouble with. I ended up pretty much writing it out in JS pseudo code for him. In my mind, it was 99% literally spelled out and he just had to replace my words with his variables (but I didn't say so). He wasn't getting it, and seemed like he just wanted the answer, which I am against providing.
@@ -47,7 +47,7 @@ Ironically, this is pretty much my exact struggle with the memory game. I have n
     R1 D3 - May 7
 </h3>
 <p align="center">
-    <img src='https://github.com/shamicker/100-days-of-code/blob/master/imagesR1.0/r1d3.PNG' width='500'>
+    <img src='https://github.com/shamicker/100DaysOfCode/blob/master/imagesR1.0/r1d3.PNG' width='500'>
 </p>
 
 Disappointed in my lack of focus today.
@@ -62,7 +62,7 @@ But I downloaded Visual Studio Code to see what all the buzz was about. Whoa! I'
 </h3>
 
 <p align="center">
-    <img src='https://github.com/shamicker/100-days-of-code/blob/master/imagesR1.0/r1-d4.PNG' width='500'>
+    <img src='https://github.com/shamicker/100DaysOfCode/blob/master/imagesR1.0/r1-d4.PNG' width='500'>
 </p>
 
 Today was the first day of the Bertelsmann Data Science Challenge Scholarship. And thousands of us were really eager to get started, so Facebook was overwhelmingly busy asking if emails should be received yet, or if the forum or slack or the classrooms were open yet. And then when they WERE opened, oh geez!
@@ -82,7 +82,7 @@ Also, coding went slower than usual because I'm trying out VSCode. Another late 
 </h3>
 
 <p align="center">
-    <img src='https://github.com/shamicker/100-days-of-code/blob/master/imagesR1.0/r1-d6.PNG' width='500'>
+    <img src='https://github.com/shamicker/100DaysOfCode/blob/master/imagesR1.0/r1-d6.PNG' width='500'>
 </p>
 
 Missed a couple days due to illness, but on the mend. Yesterday & today I did some Descriptive Statistics.
@@ -99,7 +99,7 @@ Those array methods (sort, map, filter, reduce) are tough but will make me stron
 </h3>
 
 <p align="center">
-    <img src='https://github.com/shamicker/100-days-of-code/blob/master/imagesR1.0/r1-d8.PNG' width='500'>
+    <img src='https://github.com/shamicker/100DaysOfCode/blob/master/imagesR1.0/r1-d8.PNG' width='500'>
 </p>
 
 Still a little under the weather so missed a day. Yesterday and today I did more Descriptive Statistics rather than *actual* coding. But I'm counting it since it'll eventually become coding. Can't wait for that part!
@@ -113,7 +113,7 @@ Still a little under the weather so missed a day. Yesterday and today I did more
 </h3>
 
 <p align="center">
-    <img src='https://github.com/shamicker/100-days-of-code/blob/master/imagesR1.0/r1-d9.PNG' width='500'>
+    <img src='https://github.com/shamicker/100DaysOfCode/blob/master/imagesR1.0/r1-d9.PNG' width='500'>
 </p>
 
 More Descriptive Stats today. I've gotten to the new-to-me stuff! I learned about:
@@ -131,7 +131,7 @@ More Descriptive Stats today. I've gotten to the new-to-me stuff! I learned abou
 </h3>
 
 <p align="center">
-    <img src='https://github.com/shamicker/100-days-of-code/blob/master/imagesR1.0/r1-d11.PNG' width='500'>
+    <img src='https://github.com/shamicker/100DaysOfCode/blob/master/imagesR1.0/r1-d11.PNG' width='500'>
 </p>
 
 I'd forgotten just how much I like math. I'm loving Descriptive Stats! Of course, it's still early on.
@@ -147,7 +147,7 @@ Also figured out how to write math symbols in my markdown sheet. Exciting!
 </h3>
 
 <p align="center">
-    <img src='https://github.com/shamicker/100-days-of-code/blob/master/imagesR1.0/r1-d16.PNG' width='500'>
+    <img src='https://github.com/shamicker/100DaysOfCode/blob/master/imagesR1.0/r1-d16.PNG' width='500'>
 </p>
 
 Nothing terribly interesting has been happening. Just plugging away in Descriptive Statistics. Loving it, but it's still mostly a review of my math days. Granted, they seem like a million years ago...
@@ -160,7 +160,7 @@ Nothing terribly interesting has been happening. Just plugging away in Descripti
 </h3>
 
 <p align="center">
-    <img src='https://github.com/shamicker/100-days-of-code/blob/master/imagesR1.0/r1-d18.PNG' width='500'>
+    <img src='https://github.com/shamicker/100DaysOfCode/blob/master/imagesR1.0/r1-d18.PNG' width='500'>
 </p>
 
 Alright. I dropped the ball. I missed a few days, but I'm back!
@@ -176,7 +176,7 @@ Leapt back to the memory game I'd been avoiding. Solved my CSS transition issue 
 </h3>
 
 <p align="center">
-    <img src='https://github.com/shamicker/100-days-of-code/blob/master/imagesR1.0/r1-d21.PNG' width='500'>
+    <img src='https://github.com/shamicker/100DaysOfCode/blob/master/imagesR1.0/r1-d21.PNG' width='500'>
 </p>
 
 Been plugging away at the FEND Memory Game. I feel so close to finishing it! Although, really, there's still more to implement and lots to fix, yet I'm tweaking the details. They're details that I'd probably end up tweaking anyways (like the flip speeds).
@@ -195,7 +195,7 @@ And wow, I suck at design, hahaha! :)
 </h3>
 
 <p align="center">
-    <img src='https://github.com/shamicker/100-days-of-code/blob/master/imagesR1.0/r1-d22.PNG' width='500'>
+    <img src='https://github.com/shamicker/100DaysOfCode/blob/master/imagesR1.0/r1-d22.PNG' width='500'>
 </p>
 
 Took an extended weekend off. But again, I'm back, with another plan. An additional plan. With a visual map of my goals! It hurts to look at all that I haven't done & all I still have left, but it is also motivation. I can and WILL do it!!
@@ -212,7 +212,7 @@ As well, I fiddled with my memory game a bit. Box shadows to make it a bit less 
 </h3>
 
 <p align="center">
-    <img src='https://github.com/shamicker/100-days-of-code/blob/master/imagesR1.0/r1-d23.PNG' width='500'>
+    <img src='https://github.com/shamicker/100DaysOfCode/blob/master/imagesR1.0/r1-d23.PNG' width='500'>
 </p>
 
 Missed a day again! Back though.
@@ -227,7 +227,7 @@ Finished 2 "chapters" of practice questions in the data science challenge. I'm u
 </h3>
 
 <p align="center">
-    <img src='https://github.com/shamicker/100-days-of-code/blob/master/imagesR1.0/r1-d24-BilKeane.jpg' width='500'>
+    <img src='https://github.com/shamicker/100DaysOfCode/blob/master/imagesR1.0/r1-d24-BilKeane.jpg' width='500'>
 </p>
 
 Another lesson down in stats!
@@ -242,7 +242,7 @@ Also did a lot of work for something that was obviously simple in the end. I gue
 </h3>
 
 <p align="center">
-    <img src='https://github.com/shamicker/100-days-of-code/blob/master/imagesR1.0/r1-d25.PNG' width='500'>
+    <img src='https://github.com/shamicker/100DaysOfCode/blob/master/imagesR1.0/r1-d25.PNG' width='500'>
 </p>
 
 Only did lesson 19 and a bit of 20 in stats. I'll have to redo some of 20 since I'm not understanding it fully. No problem, but it's tomorrow's task.
@@ -255,7 +255,7 @@ Only did lesson 19 and a bit of 20 in stats. I'll have to redo some of 20 since 
 </h3>
 
 <p align="center">
-    <img src='https://github.com/shamicker/100-days-of-code/blob/master/imagesR1.0/r1-d27.PNG' width='500'>
+    <img src='https://github.com/shamicker/100DaysOfCode/blob/master/imagesR1.0/r1-d27.PNG' width='500'>
 </p>
 
 Yesterday, did some minor but important progress on memory game. Felt awesome!
@@ -270,7 +270,7 @@ Today, progressing in stats, but am pretty confused! There was an abrupt line be
 </h3>
 
 <p align="center">
-    <img src='https://github.com/shamicker/100-days-of-code/blob/master/imagesR1.0/r1-d28.PNG' width='500'>
+    <img src='https://github.com/shamicker/100DaysOfCode/blob/master/imagesR1.0/r1-d28.PNG' width='500'>
 </p>
 
 Implemented move counter and a running timer to the memory game, but I think something's not quite right with it. I'll finish those up tomorrow.
@@ -283,7 +283,7 @@ Implemented move counter and a running timer to the memory game, but I think som
 </h3>
 
 <p align="center">
-    <img src='https://github.com/shamicker/100-days-of-code/blob/master/imagesR1.0/RoboCup2018.mp4' width='500'>
+    <img src='https://github.com/shamicker/100DaysOfCode/blob/master/imagesR1.0/RoboCup2018.mp4' width='500'>
 </p>
 
 Yikes, I haven't worked on my own projects for a week!
@@ -299,7 +299,7 @@ Then I mentored a couple of long but fun days at #TeachersLearningCode, and got 
 </h3>
 
 <p align="center">
-    <img src='https://github.com/shamicker/100-days-of-code/blob/master/imagesR1.0/r1-d31.PNG' width='500'>
+    <img src='https://github.com/shamicker/100DaysOfCode/blob/master/imagesR1.0/r1-d31.PNG' width='500'>
 </p>
 
 - Data Challenge participation on slack and the forum
@@ -313,7 +313,7 @@ Then I mentored a couple of long but fun days at #TeachersLearningCode, and got 
 </h3>
 
 <p align="center">
-    <img src='https://github.com/shamicker/100-days-of-code/blob/master/imagesR1.0/r1-d32.PNG' width='500'>
+    <img src='https://github.com/shamicker/100DaysOfCode/blob/master/imagesR1.0/r1-d32.PNG' width='500'>
 </p>
 
 Completed the rest of Free Code Camp's Applied Visual Design, Applied Accessibility, Responsive Web Design Principles, and CSS Flexbox. Most of it was review (which I needed!!). Looking forward to learning about CSS Grid next! :)
@@ -326,7 +326,7 @@ Completed the rest of Free Code Camp's Applied Visual Design, Applied Accessibil
 </h3>
 
 <p align="center">
-    <img src='https://github.com/shamicker/100-days-of-code/blob/master/imagesR1.0/r1-d33.PNG' width='500'>
+    <img src='https://github.com/shamicker/100DaysOfCode/blob/master/imagesR1.0/r1-d33.PNG' width='500'>
 </p>
 
 Finished all the FreeCodeCamp's Responsive Web Design tutorials. Just need to do the 5 projects!
@@ -343,7 +343,7 @@ And finally, started reviewing the Sampling Distributions chapter in Descriptive
 </h3>
 
 <!-- <p align="center">
-    <img src='https://github.com/shamicker/100-days-of-code/blob/master/imagesR1.0/r1-d33.PNG' width='500'>
+    <img src='https://github.com/shamicker/100DaysOfCode/blob/master/imagesR1.0/r1-d33.PNG' width='500'>
 </p> -->
 
 Took a day off for St Jean-Baptiste Monday holiday. Biked all afternoon with Kim. Sunburn! But fun and tiring. :)
@@ -359,7 +359,7 @@ Tried to organize myself with the groups I've joined! I can't keep them straight
 </h3>
 
 <p align="center">
-    <img src='https://github.com/shamicker/100-days-of-code/blob/master/imagesR1.0/r1-d35.PNG' width='500'>
+    <img src='https://github.com/shamicker/100DaysOfCode/blob/master/imagesR1.0/r1-d35.PNG' width='500'>
 </p>
 
 Finally starting to understand Sampling Distribution, after some chatting, reviewing the lessons, moving on, and re-reviewing!
@@ -372,7 +372,7 @@ Finally starting to understand Sampling Distribution, after some chatting, revie
 </h3>
 
 <p align="center">
-    <img src='https://github.com/shamicker/100-days-of-code/blob/master/imagesR1.0/r1-d36.PNG' width='500'>
+    <img src='https://github.com/shamicker/100DaysOfCode/blob/master/imagesR1.0/r1-d36.PNG' width='500'>
 </p>
 
 Yay! Finished the Stats part of the Data Challenge. Understanding the 'how' but not the 'why' (which isn't in the course's scope) of sampling distributions.
@@ -389,7 +389,7 @@ Discovered PythonAnywhere so went back and finally made my old 'fill in the blan
 </h3>
 
 <!-- <p align="center">
-    <img src='https://github.com/shamicker/100-days-of-code/blob/master/imagesR1.0/r1-d36.PNG' width='500'>
+    <img src='https://github.com/shamicker/100DaysOfCode/blob/master/imagesR1.0/r1-d36.PNG' width='500'>
 </p> -->
 
 Did some work on memory game, read data science articles. Nothing awful or exciting to report. :)
@@ -402,7 +402,7 @@ Did some work on memory game, read data science articles. Nothing awful or excit
 </h3>
 
 <p align="center">
-    <img src='https://github.com/shamicker/100-days-of-code/blob/master/imagesR1.0/r1-d39.PNG' width='500'>
+    <img src='https://github.com/shamicker/100DaysOfCode/blob/master/imagesR1.0/r1-d39.PNG' width='500'>
 </p>
 
 Reviewing Python basics for the data challenge. Didn't know about zip() before!
@@ -415,7 +415,7 @@ Reviewing Python basics for the data challenge. Didn't know about zip() before!
 </h3>
 
 <p align="center">
-    <img src='https://github.com/shamicker/100-days-of-code/blob/master/imagesR1.0/r1-d40.PNG' width='500'>
+    <img src='https://github.com/shamicker/100DaysOfCode/blob/master/imagesR1.0/r1-d40.PNG' width='500'>
 </p>
 
 More python today:
@@ -435,7 +435,7 @@ Currently stuck on a generator quiz, but I'll get it tomorrow. :)
 </h3>
 
 <p align="center">
-    <img src='https://github.com/shamicker/100-days-of-code/blob/master/imagesR1.0/r1-d41.PNG' width='500'>
+    <img src='https://github.com/shamicker/100DaysOfCode/blob/master/imagesR1.0/r1-d41.PNG' width='500'>
 </p>
 
 During a break, I suddenly figured out the quiz I was stuck on. I was making it more difficult than it actually was. (Story of my life!)
@@ -453,7 +453,7 @@ I also read data articles, watched data & cv videos, organized my path a bit mor
 </h3>
 
 <p align="center">
-    <img src='https://github.com/shamicker/100-days-of-code/blob/master/imagesR1.0/r1-d42.PNG' width='500'>
+    <img src='https://github.com/shamicker/100DaysOfCode/blob/master/imagesR1.0/r1-d42.PNG' width='500'>
 </p>
 
 More #python practice today. On to scripting!
@@ -466,7 +466,7 @@ More #python practice today. On to scripting!
 </h3>
 
 <p align="center">
-    <img src='https://github.com/shamicker/100-days-of-code/blob/master/imagesR1.0/r1-d43.PNG' width='500'>
+    <img src='https://github.com/shamicker/100DaysOfCode/blob/master/imagesR1.0/r1-d43.PNG' width='500'>
 </p>
 
 Not much today, mostly due to heat! Just some handling errors in #python.
@@ -479,7 +479,7 @@ Not much today, mostly due to heat! Just some handling errors in #python.
 </h3>
 
 <p align="center">
-    <img src='https://github.com/shamicker/100-days-of-code/blob/master/imagesR1.0/r1-d44.PNG' width='500'>
+    <img src='https://github.com/shamicker/100DaysOfCode/blob/master/imagesR1.0/r1-d44.PNG' width='500'>
 </p>
 
 Python modules and 3rd party libraries today.
@@ -496,7 +496,7 @@ Mission accomplished :D
 </h3>
 
 <p align="center">
-    <img src='https://github.com/shamicker/100-days-of-code/blob/master/imagesR1.0/r1-d45.PNG' width='500'>
+    <img src='https://github.com/shamicker/100DaysOfCode/blob/master/imagesR1.0/r1-d45.PNG' width='500'>
 </p>
 
 Procrastinated and then stayed up way too late!!!
@@ -510,7 +510,7 @@ Anyways, I did some SQL for the Data Challenge, and refactored my old Tribute Ch
 </h3>
 
 <p align="center">
-    <img src='https://github.com/shamicker/100-days-of-code/blob/master/imagesR1.0/r1-d46.PNG' width='500'>
+    <img src='https://github.com/shamicker/100DaysOfCode/blob/master/imagesR1.0/r1-d46.PNG' width='500'>
 </p>
 
 Started in on FCC's Survey Form. This time, instead of wasting time styling and re-styling, I'm experimenting with leaving all the styling until the end!
@@ -523,7 +523,7 @@ Started in on FCC's Survey Form. This time, instead of wasting time styling and 
 </h3>
 
 <!-- <p align="center">
-    <img src='https://github.com/shamicker/100-days-of-code/blob/master/imagesR1.0/r1-d46.PNG' width='500'>
+    <img src='https://github.com/shamicker/100DaysOfCode/blob/master/imagesR1.0/r1-d46.PNG' width='500'>
 </p> -->
 
 Completed survey form's functionality. Just need to style it, hopefully in something better than my usual accidental 80s aesthetic.
@@ -536,7 +536,7 @@ Completed survey form's functionality. Just need to style it, hopefully in somet
 </h3>
 
 <!-- <p align="center">
-    <img src='https://github.com/shamicker/100-days-of-code/blob/master/imagesR1.0/r1-d46.PNG' width='500'>
+    <img src='https://github.com/shamicker/100DaysOfCode/blob/master/imagesR1.0/r1-d46.PNG' width='500'>
 </p> -->
 
 More #python for data path.
@@ -549,7 +549,7 @@ More #python for data path.
 </h3>
 
 <p align="center">
-    <img src='https://github.com/shamicker/100-days-of-code/blob/master/imagesR1.0/r1-d54.PNG' width='500'>
+    <img src='https://github.com/shamicker/100DaysOfCode/blob/master/imagesR1.0/r1-d54.PNG' width='500'>
 </p>
 
 - 2 days off, out of town
@@ -564,7 +564,7 @@ More #python for data path.
 </h3>
 
 <p align="center">
-    <img src='https://github.com/shamicker/100-days-of-code/blob/master/imagesR1.0/r1-d57.PNG' width='500'>
+    <img src='https://github.com/shamicker/100DaysOfCode/blob/master/imagesR1.0/r1-d57.PNG' width='500'>
 </p>
 
 1MWTT and mentored on 19th
@@ -579,7 +579,7 @@ Finally finished SQL Aggregations chapter. So many tiny details I got caught up 
 </h3>
 
 <p align="center">
-    <img src='https://github.com/shamicker/100-days-of-code/blob/master/imagesR1.0/r1-d65.PNG' width='500'>
+    <img src='https://github.com/shamicker/100DaysOfCode/blob/master/imagesR1.0/r1-d65.PNG' width='500'>
 </p>
 
 I'm still at it, just haven't been posting lately.
@@ -596,7 +596,7 @@ Now I can dedicate my time to #1mwtt #SummerOfCode!
 </h3>
 
 <p align="center">
-    <img src='https://github.com/shamicker/100-days-of-code/blob/master/imagesR1.0/r1-d66.PNG' width='500'>
+    <img src='https://github.com/shamicker/100DaysOfCode/blob/master/imagesR1.0/r1-d66.PNG' width='500'>
 </p>
 
 I'm behind, but still working on week2 day2 #1mwtt #SummerOfCode!
@@ -611,7 +611,7 @@ Trying to wrap my head around recursives!
 </h3>
 
 <p align="center">
-    <img src='https://github.com/shamicker/100-days-of-code/blob/master/imagesR1.0/r1-d67.PNG' width='500'>
+    <img src='https://github.com/shamicker/100DaysOfCode/blob/master/imagesR1.0/r1-d67.PNG' width='500'>
 </p>
 
 I've been out of commission with a migraine for the last 3-4 days. My first ever, and I'd rather not repeat that! Aching eyes + computer glare = pain.
@@ -625,7 +625,7 @@ So today I just made my way a bit through some DataCamp python, just so I can ti
 </h3>
 
 <p align="center">
-    <img src='https://github.com/shamicker/100-days-of-code/blob/master/imagesR1.0/r1-d70.PNG' width='500'>
+    <img src='https://github.com/shamicker/100DaysOfCode/blob/master/imagesR1.0/r1-d70.PNG' width='500'>
 </p>
 
 Day 68 was split between Summer of Code and a data hackathon.
@@ -642,7 +642,7 @@ Day 70 was Summer of Code - mainly installing and troubleshooting.
 </h3>
 
 <p align="center">
-    <img src='https://github.com/shamicker/100-days-of-code/blob/master/imagesR1.0/r1-d73.PNG' width='500'>
+    <img src='https://github.com/shamicker/100DaysOfCode/blob/master/imagesR1.0/r1-d73.PNG' width='500'>
 </p>
 
 Day 71 - installing for week3 #SOC, and a crash
@@ -657,7 +657,7 @@ Day 73 - reset so reinstall all my apps, finish day 71 lesson
 </h3>
 
 <p align="center">
-    <img src='https://github.com/shamicker/100-days-of-code/blob/master/imagesR1.0/r1-d74.PNG' width='500'>
+    <img src='https://github.com/shamicker/100DaysOfCode/blob/master/imagesR1.0/r1-d74.PNG' width='500'>
 </p>
 
 Finished up week 2 of 1mwtt Summer of Code with a guest appearance by Patricia Sun, which was calming and inspiring and loving. :)
@@ -671,7 +671,7 @@ Finished up week 2 of 1mwtt Summer of Code with a guest appearance by Patricia S
 </h3>
 
 <p align="center">
-    <img src='https://github.com/shamicker/100-days-of-code/blob/master/imagesR1.0/r1-d75.PNG' width='500'>
+    <img src='https://github.com/shamicker/100DaysOfCode/blob/master/imagesR1.0/r1-d75.PNG' width='500'>
 </p>
 
 Almost got through week3 of lectures (without doing the work yet) for #1mwtt #SummerOfCode. Since I can (since I'm behind), I wanted to get a bigger picture before digging in!
@@ -684,7 +684,7 @@ Almost got through week3 of lectures (without doing the work yet) for #1mwtt #Su
 </h3>
 
 <!-- <p align="center">
-    <img src='https://github.com/shamicker/100-days-of-code/blob/master/imagesR1.0/r1-d78.PNG' width='500'>
+    <img src='https://github.com/shamicker/100DaysOfCode/blob/master/imagesR1.0/r1-d78.PNG' width='500'>
 </p> -->
 
 Got through the rest of week3's lectures, and started in. Got Chapter 1 read and exercises done, Chapter 2 read and exercises started. I need to move faster (spend less time writing notes!).
@@ -697,7 +697,7 @@ Got through the rest of week3's lectures, and started in. Got Chapter 1 read and
 </h3>
 
 <p align="center">
-    <img src='https://github.com/shamicker/100-days-of-code/blob/master/imagesR1.0/r1-d79.PNG' width='500'>
+    <img src='https://github.com/shamicker/100DaysOfCode/blob/master/imagesR1.0/r1-d79.PNG' width='500'>
 </p>
 
 - some more NLTK for #1mwtt #SummerOfCode
@@ -711,7 +711,7 @@ Got through the rest of week3's lectures, and started in. Got Chapter 1 read and
 </h3>
 
 <p align="center">
-    <img src='https://github.com/shamicker/100-days-of-code/blob/master/imagesR1.0/r1-d80.PNG' width='500'>
+    <img src='https://github.com/shamicker/100DaysOfCode/blob/master/imagesR1.0/r1-d80.PNG' width='500'>
 </p>
 
 Had trouble concentrating today, so ended up catching up on some webinars I'd been putting off. Really interesting stuff, and now I'm pretty stoked to get coding tomorrow!
@@ -724,7 +724,7 @@ Had trouble concentrating today, so ended up catching up on some webinars I'd be
 </h3>
 
 <p align="center">
-    <img src='https://github.com/shamicker/100-days-of-code/blob/master/imagesR1.0/r1-d81.PNG' width='500'>
+    <img src='https://github.com/shamicker/100DaysOfCode/blob/master/imagesR1.0/r1-d81.PNG' width='500'>
 </p>
 
 Focus of python and pandas dataframes today, via DataCamp. Finished the Python Programming Track but with a whole lot of prompting. Looking forward to practicing it though!
@@ -737,7 +737,7 @@ Focus of python and pandas dataframes today, via DataCamp. Finished the Python P
 </h3>
 
 <p align="center">
-    <img src='https://github.com/shamicker/100-days-of-code/blob/master/imagesR1.0/r1-d82.PNG' width='500'>
+    <img src='https://github.com/shamicker/100DaysOfCode/blob/master/imagesR1.0/r1-d82.PNG' width='500'>
 </p>
 
 The last 4 days were pretty scattered. Did very little learning, but did a tiny bit of #python practice, did some updating of job search docs, but mostly hung out with my cat a lot before putting her down yesterday. Much of that day was then written off.
