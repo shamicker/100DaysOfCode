@@ -3,7 +3,6 @@
 <p align="center">
     The log of my #100DaysOfCode challenge.
     <br>Start date: Oct 11th, 2018.
-
     <br><br><a href="https://twitter.com/hahaha_it_is_i">@hahaha_it_is_i</a>
 </p>
 
