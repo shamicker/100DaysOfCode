@@ -10,6 +10,7 @@
 <h2 align="center">
     Daily Log for Round 1 (again)
 </h2>
+
 ---
 
 <!-- TODAY's LOG GOES HERE -->
@@ -17,7 +18,7 @@
     R1D2 - Oct 11
 </h3>
 <p align="center">
-    <img src='https://github.com/shamicker/100-days-of-code/blob/master/Round1\ again/1-0.PNG' width='500'>
+    <img src='https://github.com/shamicker/100-days-of-code/blob/master/imagesR1.2/1.PNG' width='500'>
 </p>
 
 So, I had restarted Round 1 just before my home internet was out for almost 3 weeks!! So here I am at the beginning again. Here's to the next 100 days, which should take me to Jan 19th. We'll see about Xmas...
