@@ -15,6 +15,19 @@
 
 <!-- TODAY's LOG GOES HERE -->
 <h3 align="center">
+    R1D3-4 - Oct 13-14
+</h3>
+<p align="center">
+    <img src='https://github.com/shamicker/100DaysOfCode/blob/master/imagesR1.2/3-4.PNG' width='500'>
+</p>
+
+Yesterday and today were more Python review. I am at the part where it's technically still review, but from so long ago that I don't remember much (today ended with Classes). It's getting challenging, and I'm looking forward to more. :)
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1051664232306085889)
+
+---
+
+<h3 align="center">
     R1D2 - Oct 12
 </h3>
 <!-- <p align="center">
@@ -26,6 +39,7 @@ Today was a bit tough. I'd gone for drinks and really didn't want to work tipsil
 [See my tweet.](https://twitter.com/hahaha_it_is_i/status/1050949996223352833)
 
 ---
+
 <h3 align="center">
     R1D1 - Oct 11
 </h3>
