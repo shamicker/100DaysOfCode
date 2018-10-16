@@ -14,6 +14,20 @@
 ---
 
 <!-- TODAY's LOG GOES HERE -->
+
+<h3 align="center">
+    R1D5 - Oct 15
+</h3>
+<!-- <p align="center">
+    <img src='https://github.com/shamicker/100DaysOfCode/blob/master/imagesR1.2/3-4.PNG' width='500'>
+</p> -->
+
+Spent too long trying to figure out an SQL query. But I did finally figure it out!
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1052008219332280321)
+
+---
+
 <h3 align="center">
     R1D3-4 - Oct 13-14
 </h3>
