@@ -16,6 +16,21 @@
 <!-- TODAY's LOG GOES HERE -->
 
 <h3 align="center">
+    R1D6-8 - Oct 16-18
+</h3>
+<!-- <p align="center">
+    <img src='https://github.com/shamicker/100DaysOfCode/blob/master/imagesR1.2/3-4.PNG' width='500'>
+</p> -->
+
+Whoops, didn't even realize I forgot to post 2 days straight!
+
+More SQL queries and charting the results. Day 6 charted the queries, Day 7 organized my presentation, Day 8 troubleshot a couple errors. And here I thought I would be submitting on day7. Tomorrow will be re-verifying and submitting. :)
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1053108044505210880)
+
+---
+
+<h3 align="center">
     R1D5 - Oct 15
 </h3>
 <!-- <p align="center">
