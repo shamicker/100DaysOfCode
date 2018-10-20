@@ -16,6 +16,21 @@
 <!-- TODAY's LOG GOES HERE -->
 
 <h3 align="center">
+    R1D9 - Oct 19
+</h3>
+<p align="center">
+    <img src='https://github.com/shamicker/100DaysOfCode/blob/master/imagesR1.2/9.PNG' width='500'>
+</p>
+
+Submitted SQL project and passed. Yay :)
+
+Worked on some of the next chapter, and some of a Udemy ML course.
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1053436555262656512)
+
+---
+
+<h3 align="center">
     R1D6-8 - Oct 16-18
 </h3>
 <!-- <p align="center">
