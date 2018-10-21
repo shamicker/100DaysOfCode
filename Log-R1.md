@@ -16,6 +16,19 @@
 <!-- TODAY's LOG GOES HERE -->
 
 <h3 align="center">
+    R1D10 - Oct 20
+</h3>
+<p align="center">
+    <img src='https://github.com/shamicker/100DaysOfCode/blob/master/imagesR1.2/10.PNG' width='500'>
+</p>
+
+Today's session was replaced by a career change webinar and then some online networking. Had a short but great chat with a new connection (who lives in New Zealand! Someday I'll see it for myself.)
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1053816911346180097)
+
+---
+
+<h3 align="center">
     R1D9 - Oct 19
 </h3>
 <p align="center">
