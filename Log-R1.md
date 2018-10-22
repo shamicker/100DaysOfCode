@@ -16,6 +16,19 @@
 <!-- TODAY's LOG GOES HERE -->
 
 <h3 align="center">
+    R1D11 - Oct 21
+</h3>
+<p align="center">
+    <img src='https://github.com/shamicker/100DaysOfCode/blob/master/imagesR1.2/11.PNG' width='500'>
+</p>
+
+Day 2 of Udacity Festival 2018. Global meetups for their schools of AI, Data, Autonomous Systems.
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1054174760643518465)
+
+---
+
+<h3 align="center">
     R1D10 - Oct 20
 </h3>
 <p align="center">
