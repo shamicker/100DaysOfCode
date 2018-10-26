@@ -16,6 +16,22 @@
 <!-- TODAY's LOG GOES HERE -->
 
 <h3 align="center">
+    R1D12-25 - Oct 26
+</h3>
+<!-- <p align="center">
+    <img src='https://github.com/shamicker/100DaysOfCode/blob/master/imagesR1.2/11.PNG' width='500'>
+</p> -->
+
+Whoa, the week flew by and I didn't post!
+I skipped a day to help someone pack house.
+The last 4 days were spent trying to figure out project 4. I'm nearly there.
+Also did a bit of DataQuest today.
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1055962560367878145)
+
+---
+
+<h3 align="center">
     R1D11 - Oct 21
 </h3>
 <p align="center">
