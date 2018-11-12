@@ -16,7 +16,43 @@
 <!-- TODAY's LOG GOES HERE -->
 
 <h3 align="center">
-    R1D12-25 - Oct 26
+    R1D21 - Nov 11
+</h3>
+<p align="center">
+    <img src='https://github.com/shamicker/100DaysOfCode/blob/master/imagesR1.2/20.PNG' width='500'>
+</p>
+
+Phew, learned a lot today.
+Did a bit of PyTorch, but got rather lost trying to write out an algorithm using numpy, which I don't know very well at all. So watched a beginner's video from SciPyConf2018, which was fantastic! I'd been considering reviewing linear algebra but I think it covered enough that I won't have to (until later, probably). 
+
+Gotta finish Daredevil s3 before my subscription is up! 
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1061806466527571971)
+
+---
+
+<h3 align="center">
+    R1D16-20 - Nov 10
+</h3>
+<p align="center">
+    <img src='https://github.com/shamicker/100DaysOfCode/blob/master/imagesR1.2/20.PNG' width='500'>
+</p>
+
+Okay. I need to be strapped into this wagon; I keep falling off!
+Oct 27-30: a half-assed 4 days, trying to get my head clear enough to think logically
+Oct 31-Nov 1: I took off to help pack, clean, send off my brother's family
+Nov 2: Learned I was accepted into the PyTorch Scholarship Challenge and was flustered again! Couldn't sit still, although I got a bit of DataQuest done.
+Nov 3-8: Took off to visit my brother and help him & his young family unpack! With 2 little kids underfoot, I didn't get any coding done. :(
+Nov 9-10: Started the PyTorch Challenge. So much to learn, plus a project at the end! Excited! Also finally got my last project reviewed. Contacted support about my ID not being supported in order to graduate DFND.
+
+Okay, from now on (again), I'll be posting daily!!
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1055962560367878145)
+
+---
+
+<h3 align="center">
+    R1D12-15 - Oct 26
 </h3>
 <!-- <p align="center">
     <img src='https://github.com/shamicker/100DaysOfCode/blob/master/imagesR1.2/11.PNG' width='500'>
