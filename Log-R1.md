@@ -19,7 +19,7 @@
     R1D21 - Nov 11
 </h3>
 <p align="center">
-    <img src='https://github.com/shamicker/100DaysOfCode/blob/master/imagesR1.2/20.PNG' width='500'>
+    <img src='https://raw.githubusercontent.com/shamicker/100DaysOfCode/master/imagesR1.2/21.PNG' width='500'>
 </p>
 
 Phew, learned a lot today.
@@ -35,7 +35,7 @@ Gotta finish Daredevil s3 before my subscription is up!
     R1D16-20 - Nov 10
 </h3>
 <p align="center">
-    <img src='https://github.com/shamicker/100DaysOfCode/blob/master/imagesR1.2/20.PNG' width='500'>
+    <img src='https://raw.githubusercontent.com/shamicker/100DaysOfCode/master/imagesR1.2/20.png' width='500'>
 </p>
 
 Okay. I need to be strapped into this wagon; I keep falling off!
