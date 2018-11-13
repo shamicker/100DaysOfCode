@@ -16,10 +16,25 @@
 <!-- TODAY's LOG GOES HERE -->
 
 <h3 align="center">
+    R1D22 - Nov 12
+</h3>
+<p align="center">
+    <img src='https://github.com/shamicker/100DaysOfCode/blob/master/imagesR1.2/22.PNG' width='500'>
+</p>
+
+Still struggling with the algorithm from yesterday. Discovered I'd missed a pretty big concept in it. Now working to wrap my brain around the actual grasping of what-goes-where in the math of it.
+
+Also brushed up on some linear algebra, which may help with it. 
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1062176727810629632)
+
+---
+
+<h3 align="center">
     R1D21 - Nov 11
 </h3>
 <p align="center">
-    <img src='https://github.com/shamicker/100DaysOfCode/blob/master/imagesR1.2/20.PNG' width='500'>
+    <img src='https://github.com/shamicker/100DaysOfCode/blob/master/imagesR1.2/21.PNG' width='500'>
 </p>
 
 Phew, learned a lot today.
@@ -35,7 +50,7 @@ Gotta finish Daredevil s3 before my subscription is up!
     R1D16-20 - Nov 10
 </h3>
 <p align="center">
-    <img src='https://github.com/shamicker/100DaysOfCode/blob/master/imagesR1.2/20.PNG' width='500'>
+    <img src='https://github.com/shamicker/100DaysOfCode/blob/master/imagesR1.2/20.png' width='500'>
 </p>
 
 Okay. I need to be strapped into this wagon; I keep falling off!
