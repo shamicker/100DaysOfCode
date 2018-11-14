@@ -16,6 +16,21 @@
 <!-- TODAY's LOG GOES HERE -->
 
 <h3 align="center">
+    R1D23 - Nov 13
+</h3>
+<p align="center">
+    <img src='https://raw.githubusercontent.com/shamicker/100DaysOfCode/master/imagesR1.2/23.PNG' width='500'>
+</p>
+
+Brushed up on matrices on Khan Academy (he's a great teacher!)
+Finally figured out the algorithm that was bugging me!! It was relatively simple piece I was missing...
+Continued in PyTorch course. Yay!
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1062541973016469504)
+
+---
+
+<h3 align="center">
     R1D22 - Nov 12
 </h3>
 <p align="center">
