@@ -16,6 +16,20 @@
 <!-- TODAY's LOG GOES HERE -->
 
 <h3 align="center">
+    R1D24 - Nov 14
+</h3>
+<p align="center">
+    <img src='https://raw.githubusercontent.com/shamicker/100DaysOfCode/master/imagesR1.2/24.PNG' width='500'>
+</p>
+
+I mainly contributed to the socializing aspect of the challenge today (AMA session).
+Other than that, prepping for job applications.
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1062903368509784064)
+
+---
+
+<h3 align="center">
     R1D23 - Nov 13
 </h3>
 <p align="center">
