@@ -16,6 +16,19 @@
 <!-- TODAY's LOG GOES HERE -->
 
 <h3 align="center">
+    R1D25 - Nov 15
+</h3>
+<p align="center">
+    <img src='https://raw.githubusercontent.com/shamicker/100DaysOfCode/master/imagesR1.2/25.PNG' width='500'>
+</p>
+
+Another algorithm. Spent too long on it, but finally got it. I need more practice in python: I have trouble "translating" from math to python, even though I can read and explain both (thus far).
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1063244060108967936)
+
+---
+
+<h3 align="center">
     R1D24 - Nov 14
 </h3>
 <p align="center">
