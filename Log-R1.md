@@ -16,6 +16,19 @@
 <!-- TODAY's LOG GOES HERE -->
 
 <h3 align="center">
+    R1D26 - Nov 16
+</h3>
+<p align="center">
+    <img src='https://raw.githubusercontent.com/shamicker/100DaysOfCode/master/imagesR1.2/26.PNG' width='500'>
+</p>
+
+Reviewing derivatives! It's been so long since my last calculus class that this stuff is practically new to me. I'm understanding it infinitely more than before though, so I'm happy. :)
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1063563566119362560)
+
+---
+
+<h3 align="center">
     R1D25 - Nov 15
 </h3>
 <p align="center">
