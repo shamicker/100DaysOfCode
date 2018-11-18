@@ -16,6 +16,21 @@
 <!-- TODAY's LOG GOES HERE -->
 
 <h3 align="center">
+    R1D27 - Nov 17
+</h3>
+<p align="center">
+    <img src='https://raw.githubusercontent.com/shamicker/100DaysOfCode/master/imagesR1.2/27.PNG' width='500'>
+</p>
+
+Still reviewing derivatives, but now I'm approaching a limit! It is also approaching what I need to know in order to continue on in the challenge.
+
+Also, super excited to be a recipient of DataCamp's 3-month scholarship for women & minorities!!! Whoo hoo! :)
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1063984686328934400)
+
+---
+
+<h3 align="center">
     R1D26 - Nov 16
 </h3>
 <p align="center">
