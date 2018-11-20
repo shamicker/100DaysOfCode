@@ -16,6 +16,19 @@
 <!-- TODAY's LOG GOES HERE -->
 
 <h3 align="center">
+    R1D29 - Nov 19
+</h3>
+<!-- <p align="center">
+    <img src='https://raw.githubusercontent.com/shamicker/100DaysOfCode/master/imagesR1.2/29.PNG' width='500'>
+</p> -->
+
+Didn't get too much done today. A bit more math info. I swear tomorrow I'll make progress in the actual challenge rather than on pre-requisite knowledge!
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1064714547808911360)
+
+---
+
+<h3 align="center">
     R1D28 - Nov 18
 </h3>
 <p align="center">
