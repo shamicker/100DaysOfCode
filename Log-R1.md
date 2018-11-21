@@ -16,6 +16,20 @@
 <!-- TODAY's LOG GOES HERE -->
 
 <h3 align="center">
+    R1D30 - Nov 20
+</h3>
+<p align="center">
+    <img src='https://raw.githubusercontent.com/shamicker/100DaysOfCode/master/imagesR1.2/30.PNG' width='500'>
+</p>
+
+Finally getting this math stuff! I could understand the concepts, just didn't have the math skills. Now I can follow closely. Whoo hoo!
+And I hear rumours that this is a harder part of the challenge, the foundational stuff. Phew! :)
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1065079266138824704)
+
+---
+
+<h3 align="center">
     R1D29 - Nov 19
 </h3>
 <!-- <p align="center">
