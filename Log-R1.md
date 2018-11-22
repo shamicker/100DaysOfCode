@@ -16,6 +16,23 @@
 <!-- TODAY's LOG GOES HERE -->
 
 <h3 align="center">
+    R1D31 - Nov 21
+</h3>
+<p align="center">
+    <img src='https://raw.githubusercontent.com/shamicker/100DaysOfCode/master/imagesR1.2/31.PNG' width='500'>
+</p>
+
+Finished my chapter in DataCamp - I don't want to let that scholarship go to waste! I have planned out my time for it: roughly an hour a day for the 3 months should get me to the end of the Data Scientist in Python track!
+
+Also, I finally attended an All-Girl Hack Night event - by myself! I was keenly interested in both talks being presented so wasn't even nervous!! :) The first was Our Unconscious Bias (like, in general), and the other was A.I. in Music. Pretty neat stuff! I bolted when it was over though. I might bring a friend next time...
+
+Next to no progress on PyTorch challenge. :(
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1065477067876241409)
+
+---
+
+<h3 align="center">
     R1D30 - Nov 20
 </h3>
 <p align="center">
