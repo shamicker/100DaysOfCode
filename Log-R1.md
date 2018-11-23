@@ -16,6 +16,19 @@
 <!-- TODAY's LOG GOES HERE -->
 
 <h3 align="center">
+    R1D32 - Nov 22
+</h3>
+<p align="center">
+    <img src='https://raw.githubusercontent.com/shamicker/100DaysOfCode/master/imagesR1.2/32.PNG' width='500'>
+</p>
+
+Reviewed math & made more notes. Slowly but surely I'm getting closer...
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1065822087938547713)
+
+---
+
+<h3 align="center">
     R1D31 - Nov 21
 </h3>
 <p align="center">
