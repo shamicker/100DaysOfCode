@@ -16,6 +16,21 @@
 <!-- TODAY's LOG GOES HERE -->
 
 <h3 align="center">
+    R1D33 - Nov 23
+</h3>
+<p align="center">
+    <img src='https://raw.githubusercontent.com/shamicker/100DaysOfCode/master/imagesR1.2/33.PNG' width='500'>
+</p>
+
+Yay 1: I'd been struggling with taking digital math notes all week but got them working today.
+
+Yay 2: I understand all the math steps and can finally move on in the challenge. ...Which is coding all these math steps! I'll start at it tomorrow and see how far I can go :)
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1066143480324546560)
+
+---
+
+<h3 align="center">
     R1D32 - Nov 22
 </h3>
 <p align="center">
