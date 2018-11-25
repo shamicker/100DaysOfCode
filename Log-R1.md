@@ -16,6 +16,19 @@
 <!-- TODAY's LOG GOES HERE -->
 
 <h3 align="center">
+    R1D34 - Nov 24
+</h3>
+<p align="center">
+    <img src='https://raw.githubusercontent.com/shamicker/100DaysOfCode/master/imagesR1.2/34.PNG' width='500'>
+</p>
+
+Mostly took the day off. But I got in some Pandas Foundations @DataCamp.
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1066525163938869248)
+
+---
+
+<h3 align="center">
     R1D33 - Nov 23
 </h3>
 <p align="center">
