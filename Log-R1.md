@@ -16,6 +16,21 @@
 <!-- TODAY's LOG GOES HERE -->
 
 <h3 align="center">
+    R1D35 - Nov 25
+</h3>
+<p align="center">
+    <img src='https://raw.githubusercontent.com/shamicker/100DaysOfCode/master/imagesR1.2/35.PNG' width='500'>
+</p>
+
+Did some @DataCamp.
+
+Did some coding but still struggling on this. There's something I'm really missing. Maybe it'll come to me in my dreams. 
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1066881818471874560)
+
+---
+
+<h3 align="center">
     R1D34 - Nov 24
 </h3>
 <p align="center">
