@@ -16,6 +16,21 @@
 <!-- TODAY's LOG GOES HERE -->
 
 <h3 align="center">
+    R1D36 - Nov 26
+</h3>
+<p align="center">
+    <img src='https://raw.githubusercontent.com/shamicker/100DaysOfCode/master/imagesR1.2/36.PNG' width='500'>
+</p>
+
+More pandas @DataCamp.
+
+Progress in the challenge! I'm past the lesson 2 halfway point. Thank goodness.
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1067237674212315136)
+
+---
+
+<h3 align="center">
     R1D35 - Nov 25
 </h3>
 <p align="center">
