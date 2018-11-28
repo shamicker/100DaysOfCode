@@ -16,6 +16,19 @@
 <!-- TODAY's LOG GOES HERE -->
 
 <h3 align="center">
+    R1D38 - Nov 28
+</h3>
+<!-- <p align="center">
+    <img src='https://raw.githubusercontent.com/shamicker/100DaysOfCode/master/imagesR1.2/38.PNG' width='500'>
+</p> -->
+
+It was a really bad day for concentration. I was up too late last night. I'll go to bed early, get a good sleep, wake up early & ready to dive in!
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1067907234871558147)
+
+---
+
+<h3 align="center">
     R1D37 - Nov 27
 </h3>
 <p align="center">
