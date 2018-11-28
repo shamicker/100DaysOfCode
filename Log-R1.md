@@ -16,6 +16,21 @@
 <!-- TODAY's LOG GOES HERE -->
 
 <h3 align="center">
+    R1D37 - Nov 27
+</h3>
+<p align="center">
+    <img src='https://raw.githubusercontent.com/shamicker/100DaysOfCode/master/imagesR1.2/37.PNG' width='500'>
+</p>
+
+More @DataCamp! 
+
+Job search document. It isn't coding, but currently more important than. I'd rather lump it in this challenge rather than have it turn into its own 100Days. I'm just so bad at selling. Especially myself.
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1067633260270944256)
+
+---
+
+<h3 align="center">
     R1D36 - Nov 26
 </h3>
 <p align="center">
