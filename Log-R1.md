@@ -16,6 +16,21 @@
 <!-- TODAY's LOG GOES HERE -->
 
 <h3 align="center">
+    R1D39 - Nov 29
+</h3>
+<p align="center">
+    <img src='https://raw.githubusercontent.com/shamicker/100DaysOfCode/master/imagesR1.2/39.PNG' width='500'>
+</p>
+
+Did a bunch of @DataCamp today. 
+
+I'm just so fatigued these days; can't concentrate, etc. Need to get out & have a fun day off...
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1068284335315435521)
+
+---
+
+<h3 align="center">
     R1D38 - Nov 28
 </h3>
 <!-- <p align="center">
