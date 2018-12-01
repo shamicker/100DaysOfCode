@@ -16,6 +16,21 @@
 <!-- TODAY's LOG GOES HERE -->
 
 <h3 align="center">
+    R1D40 - Dec 1
+</h3>
+<p align="center">
+    <img src='https://raw.githubusercontent.com/shamicker/100DaysOfCode/master/imagesR1.2/40.PNG' width='500'>
+</p>
+
+Skipped yesterday.
+Did some minimal challenge work (a single chapter), but progress was made.
+Really awful dull, bland headaches.
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1069017010334515201)
+
+---
+
+<h3 align="center">
     R1D39 - Nov 29
 </h3>
 <p align="center">
