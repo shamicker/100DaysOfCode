@@ -16,6 +16,19 @@
 <!-- TODAY's LOG GOES HERE -->
 
 <h3 align="center">
+    R1D41 - Dec 2
+</h3>
+<p align="center">
+    <img src='https://raw.githubusercontent.com/shamicker/100DaysOfCode/master/imagesR1.2/41.PNG' width='500'>
+</p>
+
+Completed about 5 chapters of the challenge! I'm determined to complete this thing! I've got a month to go, and I don't even know half of the stuff yet. Yikes!
+
+[See my tweet.]()
+
+---
+
+<h3 align="center">
     R1D40 - Dec 1
 </h3>
 <p align="center">
