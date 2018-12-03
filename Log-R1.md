@@ -16,6 +16,21 @@
 <!-- TODAY's LOG GOES HERE -->
 
 <h3 align="center">
+    R1D42 - Dec 3
+</h3>
+<p align="center">
+    <img src='https://raw.githubusercontent.com/shamicker/100DaysOfCode/master/imagesR1.2/42.PNG' width='500'>
+</p>
+
+Another chapter in DataCamp.
+
+Finished lesson 2 in the challenge! Feels good to be moving on.
+
+[See my tweet.]()
+
+---
+
+<h3 align="center">
     R1D41 - Dec 2
 </h3>
 <p align="center">
@@ -24,7 +39,7 @@
 
 Completed about 5 chapters of the challenge! I'm determined to complete this thing! I've got a month to go, and I don't even know half of the stuff yet. Yikes!
 
-[See my tweet.]()
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1069404240186085377)
 
 ---
 
