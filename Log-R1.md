@@ -16,6 +16,21 @@
 <!-- TODAY's LOG GOES HERE -->
 
 <h3 align="center">
+    R1D43 - Dec 4
+</h3>
+<p align="center">
+    <img src='https://raw.githubusercontent.com/shamicker/100DaysOfCode/master/imagesR1.2/43.PNG' width='500'>
+</p>
+
+Exciting!!! All of a sudden I'm working with this type of data. Unimaginable a couple months ago!
+
+PS. I was so excited I forgot to add my #pytorchUdacityScholar and #WomenWhoCode tags :P
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1070149391028232193)
+
+---
+
+<h3 align="center">
     R1D42 - Dec 3
 </h3>
 <p align="center">
@@ -26,7 +41,7 @@ Another chapter in DataCamp.
 
 Finished lesson 2 in the challenge! Feels good to be moving on.
 
-[See my tweet.]()
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1069741703580565505)
 
 ---
 
