@@ -16,6 +16,21 @@
 <!-- TODAY's LOG GOES HERE -->
 
 <h3 align="center">
+    R1D45 - Dec 6
+</h3>
+<p align="center">
+    <img src='https://raw.githubusercontent.com/shamicker/100DaysOfCode/master/imagesR1.2/45.PNG' width='500'>
+</p>
+
+Some DataCamp. 
+
+Some pytorch challenge - understand backpropagation. Submitted my student story.
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1070900050228846592)
+
+---
+
+<h3 align="center">
     R1D44 - Dec 5
 </h3>
 <!-- <p align="center">
@@ -24,7 +39,7 @@
 
 Didn't feel like much got done today. I did solve yesterday's issue. Now I'm on the next one. :)
 
-[See my tweet.]()
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1070473637667442689)
 
 ---
 
