@@ -16,10 +16,23 @@
 <!-- TODAY's LOG GOES HERE -->
 
 <h3 align="center">
+    R1D46 - Dec 7
+</h3>
+<!-- <p align="center">
+    <img src='https://raw.githubusercontent.com/shamicker/100DaysOfCode/master/imagesR1.2/46.jpg' width='500'>
+</p> -->
+
+Stuck on a challenge task. Although I've discovered that it does help to read the notes, docs, and instructions given...
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1071194013041131520)
+
+---
+
+<h3 align="center">
     R1D45 - Dec 6
 </h3>
 <p align="center">
-    <img src='https://raw.githubusercontent.com/shamicker/100DaysOfCode/master/imagesR1.2/45.PNG' width='500'>
+    <img src='https://raw.githubusercontent.com/shamicker/100DaysOfCode/master/imagesR1.2/45.jpg' width='500'>
 </p>
 
 Some DataCamp. 
