@@ -16,6 +16,19 @@
 <!-- TODAY's LOG GOES HERE -->
 
 <h3 align="center">
+    R1D48 - Dec 9
+</h3>
+<p align="center">
+    <img src='https://raw.githubusercontent.com/shamicker/100DaysOfCode/master/imagesR1.2/48.jpg' width='500'>
+</p>
+
+Technically, I can create my own multi-layer neural network! So much to learn though.
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1071880610711592960)
+
+---
+
+<h3 align="center">
     R1D47 - Dec 8
 </h3>
 <p align="center">
