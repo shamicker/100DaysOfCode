@@ -16,6 +16,20 @@
 <!-- TODAY's LOG GOES HERE -->
 
 <h3 align="center">
+    R1D47 - Dec 8
+</h3>
+<p align="center">
+    <img src='https://raw.githubusercontent.com/shamicker/100DaysOfCode/master/imagesR1.2/47.jpg' width='500'>
+</p>
+
+Spent most of the day reviewing. Much needed!
+Also solved yesterday's problem, but I don't even know how. I just ran it and it worked. I guess my computer was just as tired as I was yesterday.
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1071601470192185345)
+
+---
+
+<h3 align="center">
     R1D46 - Dec 7
 </h3>
 <!-- <p align="center">
