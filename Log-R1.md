@@ -16,6 +16,21 @@
 <!-- TODAY's LOG GOES HERE -->
 
 <h3 align="center">
+    R1D49 - Dec 10
+</h3>
+<p align="center">
+    <img src='https://raw.githubusercontent.com/shamicker/100DaysOfCode/master/imagesR1.2/49.jpg' width='500'>
+</p>
+
+That's an image of my own network (just learned the validation pas)!
+
+Plugging away on neural networks. Trying to slow down to take notes while simultaneously being eager to push ahead to learn more and also to just take in what I just learned! Can I go in 3 directions at once?
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1072309208895422464)
+
+---
+
+<h3 align="center">
     R1D48 - Dec 9
 </h3>
 <p align="center">
