@@ -16,6 +16,21 @@
 <!-- TODAY's LOG GOES HERE -->
 
 <h3 align="center">
+    R1D50 - Dec 11
+</h3>
+<p align="center">
+    <img src='https://raw.githubusercontent.com/shamicker/100DaysOfCode/master/imagesR1.2/50.jpg' width='500'>
+</p>
+
+This is also an image of my network, this time with dropout. :D
+
+More pytorch today. Learned to save & load models, and figured out (mostly) what was going wrong with my model with dropout.
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1072656291556978688)
+
+---
+
+<h3 align="center">
     R1D49 - Dec 10
 </h3>
 <p align="center">
