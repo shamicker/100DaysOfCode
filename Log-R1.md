@@ -16,6 +16,20 @@
 <!-- TODAY's LOG GOES HERE -->
 
 <h3 align="center">
+    R1D51 - Dec 12
+</h3>
+<p align="center">
+    <img src='https://raw.githubusercontent.com/shamicker/100DaysOfCode/master/imagesR1.2/51.jpg' width='500'>
+</p>
+
+Argued with my code today. Got further but not past. 
+Tomorrow's another day.
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1073040568723402753)
+
+---
+
+<h3 align="center">
     R1D50 - Dec 11
 </h3>
 <p align="center">
