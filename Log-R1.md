@@ -16,6 +16,21 @@
 <!-- TODAY's LOG GOES HERE -->
 
 <h3 align="center">
+    R1D52 - Dec 13
+</h3>
+<!-- <p align="center">
+    <img src='https://raw.githubusercontent.com/shamicker/100DaysOfCode/master/imagesR1.2/51.jpg' width='500'>
+</p> -->
+
+Spent most of today with the job documents again. 
+Watched a DataCamp webinar (Data Literacy in the 21st century). Really interesting!
+Understand normalization theory. Don't understand how to know how to implement it yet.
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1073441922407124993)
+
+---
+
+<h3 align="center">
     R1D51 - Dec 12
 </h3>
 <p align="center">
