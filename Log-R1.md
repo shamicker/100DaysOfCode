@@ -16,6 +16,20 @@
 <!-- TODAY's LOG GOES HERE -->
 
 <h3 align="center">
+    R1D53 - Dec 14
+</h3>
+<!-- <p align="center">
+    <img src='https://raw.githubusercontent.com/shamicker/100DaysOfCode/master/imagesR1.2/51.jpg' width='500'>
+</p> -->
+
+Nothing much got done today. Wrote code that didn't work. Argh!!
+Best thing to do is get some rest and tackle it in the morning.
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1073769556026511360)
+
+---
+
+<h3 align="center">
     R1D52 - Dec 13
 </h3>
 <!-- <p align="center">
