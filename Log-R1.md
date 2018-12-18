@@ -134,7 +134,7 @@ Technically, I can create my own multi-layer neural network! So much to learn th
     R1D47 - Dec 8
 </h3>
 <p align="center">
-    <img src='https://raw.githubusercontent.com/shamicker/100DaysOfCode/master/imagesR1.2/47.jpg' width='500'>
+    <img src='https://raw.githubusercontent.com/shamicker/100DaysOfCode/master/imagesR1.2/47.PNG' width='500'>
 </p>
 
 Spent most of the day reviewing. Much needed!
