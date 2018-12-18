@@ -16,6 +16,35 @@
 <!-- TODAY's LOG GOES HERE -->
 
 <h3 align="center">
+    R1D56 - Dec 17
+</h3>
+<!-- <p align="center">
+    <img src='https://raw.githubusercontent.com/shamicker/100DaysOfCode/master/imagesR1.2/51.jpg' width='500'>
+</p> -->
+
+A bit of DataCamp
+A bit of Lesson 5 challenge
+A bit of Dashboarding with Scheduled Notebooks via Kaggle
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1074822903777120256)
+
+---
+
+<h3 align="center">
+    R1D54-55 - Dec 15-16
+</h3>
+<!-- <p align="center">
+    <img src='https://raw.githubusercontent.com/shamicker/100DaysOfCode/master/imagesR1.2/51.jpg' width='500'>
+</p> -->
+
+Met up with a fellow PyTorch challenge student (Gerson) yesterday.
+Am nearly halfway through Lesson 5!
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1074487534758039552)
+
+---
+
+<h3 align="center">
     R1D53 - Dec 14
 </h3>
 <!-- <p align="center">
