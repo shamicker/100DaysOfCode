@@ -16,6 +16,19 @@
 <!-- TODAY's LOG GOES HERE -->
 
 <h3 align="center">
+    R1D57 - Dec 18
+</h3>
+<p align="center">
+    <img src='https://raw.githubusercontent.com/shamicker/100DaysOfCode/master/imagesR1.2/57.jpg' width='500'>
+</p>
+
+Learning about high-pass filters. Neat!
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1075242000901963776)
+
+---
+
+<h3 align="center">
     R1D56 - Dec 17
 </h3>
 <!-- <p align="center">
