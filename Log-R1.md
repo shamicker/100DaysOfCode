@@ -16,6 +16,21 @@
 <!-- TODAY's LOG GOES HERE -->
 
 <h3 align="center">
+    R1D58-60 - Jan 2-4
+</h3>
+<!-- <p align="center">
+    <img src='https://raw.githubusercontent.com/shamicker/100DaysOfCode/master/imagesR1.2/57.jpg' width='500'>
+</p> -->
+
+Even though I did work (at least an hour) for the majority of days through my 2 weeks of holidays, I won't count it. It didn't add up to much anyways.
+
+However, the past 3 days have been spent working on the PyTorch challenge. Today I finally got some decent progress on the Image Classifier project for it! There's more to do, but I'm hoping I can make a push to finish it all in time to be considered for the scholarship!
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1081432879224274949)
+
+---
+
+<h3 align="center">
     R1D57 - Dec 18
 </h3>
 <p align="center">
