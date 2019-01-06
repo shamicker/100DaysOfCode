@@ -16,6 +16,21 @@
 <!-- TODAY's LOG GOES HERE -->
 
 <h3 align="center">
+    R1D61 - Jan 5
+</h3>
+<p align="center">
+    <img src='https://raw.githubusercontent.com/shamicker/100DaysOfCode/master/imagesR1.2/61.jpg' width='500'>
+</p>
+
+Image is my "selfie" for the challenge's study jam event today. :)
+
+Spent most of the day whittling through this challenge project. Boy oh boy, do I need to learn Numpy and image manipulation. Sad how long it took me... 
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1081749426132213760)
+
+---
+
+<h3 align="center">
     R1D58-60 - Jan 2-4
 </h3>
 <!-- <p align="center">
