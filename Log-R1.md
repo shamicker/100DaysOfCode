@@ -16,6 +16,21 @@
 <!-- TODAY's LOG GOES HERE -->
 
 <h3 align="center">
+    R1D62 - Jan 6
+</h3>
+<p align="center">
+    <img src='https://raw.githubusercontent.com/shamicker/100DaysOfCode/master/imagesR1.2/62.jpg' width='500'>
+</p>
+
+What should have taken a short while took me 2 precious days! My "finishing touches" on yesterday's problem code took all day again, even with over an hour of help. I'm just happy it's working now, and I can move on. 
+
+I only have 3 more days to finish everything up in this challenge. Not sure I'll make it.
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1082100857578160128)
+
+---
+
+<h3 align="center">
     R1D61 - Jan 5
 </h3>
 <p align="center">
