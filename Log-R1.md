@@ -16,6 +16,25 @@
 <!-- TODAY's LOG GOES HERE -->
 
 <h3 align="center">
+    R1D63-67 - Jan 7-14
+</h3>
+<p align="center">
+    <img src='https://raw.githubusercontent.com/shamicker/100DaysOfCode/master/imagesR1.2/67.jpg' width='500'>
+</p>
+
+This past week has been all over the place. A few days was the last push to get everything done (by the 9th) to qualify for the PyTorch Scholarship. Boy was that hectic, but I made it. 
+
+Then I kind of took a couple days off - during which I actually fiddled with my project submission to try to improve it.
+
+Then I DID take a couple days off, during which I started trying to organize myself. (Should I return to school? Continuing ed? Just do some projects and more classes on my own? I've contacted a couple of programs to talk with them. Haven't heard back yet.)
+
+And today, I'm finally back to actually coding/learning. Started 1mwtt's WoD. I finished up DataCamp's part 1 of Statistical Thinking. Really tough since the theory was mostly new to me. I think I might supplement before continuing with part 2.
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1084984535123668992)
+
+---
+
+<h3 align="center">
     R1D62 - Jan 6
 </h3>
 <p align="center">
