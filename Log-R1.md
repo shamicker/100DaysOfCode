@@ -16,6 +16,23 @@
 <!-- TODAY's LOG GOES HERE -->
 
 <h3 align="center">
+    R1D68 - Jan 15
+</h3>
+<!-- <p align="center">
+    <img src='https://raw.githubusercontent.com/shamicker/100DaysOfCode/master/imagesR1.2/67.jpg' width='500'>
+</p> -->
+
+Did a quick review of descriptive stats, started in on inferential stats.
+
+Researched more job descriptions and school possibilities. I'd like a more direct (and thorough!) route than my current, meandering one.
+
+Found someone interested in collaborating on a data project though! We have to find a good project now. :)
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1085387977969319936)
+
+---
+
+<h3 align="center">
     R1D63-67 - Jan 7-14
 </h3>
 <p align="center">
