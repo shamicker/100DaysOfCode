@@ -16,6 +16,19 @@
 <!-- TODAY's LOG GOES HERE -->
 
 <h3 align="center">
+    R1D69 - Jan 16
+</h3>
+<!-- <p align="center">
+    <img src='https://raw.githubusercontent.com/shamicker/100DaysOfCode/master/imagesR1.2/67.jpg' width='500'>
+</p> -->
+
+Not much today. Just some more statistics.
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1085723190096216065)
+
+---
+
+<h3 align="center">
     R1D68 - Jan 15
 </h3>
 <!-- <p align="center">
