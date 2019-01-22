@@ -16,6 +16,23 @@
 <!-- TODAY's LOG GOES HERE -->
 
 <h3 align="center">
+    R1D70-72 - Jan 17-21
+</h3>
+<p align="center">
+    <img src='https://raw.githubusercontent.com/shamicker/100DaysOfCode/master/imagesR1.2/72.jpg' width='500'>
+</p>
+
+I passed to phase 2! I'll be in a deep learning course for the next 4 months, thanks to PyTorch and Udacity!
+
+The past 5 days, which I'm only going to count as 3, have been a bit scattered. Again! I need focus and organization.
+
+I've been doing more research on school and jobs (applying), and continuing to learn about stats and A/B testing.
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1087546549855535104)
+
+---
+
+<h3 align="center">
     R1D69 - Jan 16
 </h3>
 <!-- <p align="center">
