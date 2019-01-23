@@ -16,6 +16,21 @@
 <!-- TODAY's LOG GOES HERE -->
 
 <h3 align="center">
+    R1D73-74 - Jan 22-23
+</h3>
+<p align="center">
+    <img src='https://raw.githubusercontent.com/shamicker/100DaysOfCode/master/imagesR1.2/74.jpg' width='500'>
+</p>
+
+Having trouble concentrating for long enough to start in-depth learning as DLND #pytorchudacityscholar but got myself caught up, and played around with the style transfer program.
+
+Photo is my kitty in the style of Rain Princess by Leonid Afremov.
+
+[See my tweet.](https://twitter.com/hahaha_it_is_i/status/1088210929005838338)
+
+---
+
+<h3 align="center">
     R1D70-72 - Jan 17-21
 </h3>
 <p align="center">
